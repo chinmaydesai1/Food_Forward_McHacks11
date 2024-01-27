@@ -258,3 +258,58 @@
 [NX Daemon Server] - 2024-01-27T22:19:29.044Z - [WATCHER]: Stopping the watcher for c:\Users\jaspr\.vscode\McHacks11\FrontEnd (sources)
 [NX Daemon Server] - 2024-01-27T22:19:29.044Z - [WATCHER]: Stopping the watcher for c:\Users\jaspr\.vscode\McHacks11\FrontEnd (outputs)
 [NX Daemon Server] - 2024-01-27T22:19:29.044Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2024-01-27T22:19:31.021Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\57ba3a44ce82eec638ff\d.sock
+[NX Daemon Server] - 2024-01-27T22:19:31.025Z - [WATCHER]: Subscribed to changes within: c:\Users\jaspr\.vscode\McHacks11\FrontEnd (native)
+[NX Daemon Server] - 2024-01-27T22:19:31.030Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:19:31.034Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-27T22:19:31.035Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:19:31.036Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:19:31.038Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-27T22:19:31.038Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T22:19:31.038Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T22:19:31.272Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:19:31.274Z - Time taken for 'total for creating and serializing project graph' 235.41869999840856ms
+[NX Daemon Server] - 2024-01-27T22:19:31.275Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:19:31.275Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 236. Response time: 3.
+[NX Daemon Server] - 2024-01-27T22:19:31.299Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:19:31.299Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:19:31.300Z - Time taken for 'total for creating and serializing project graph' 0.2598999999463558ms
+[NX Daemon Server] - 2024-01-27T22:19:31.301Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:19:31.301Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-27T22:19:31.308Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:19:31.308Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:19:31.309Z - Time taken for 'total for creating and serializing project graph' 0.2295999974012375ms
+[NX Daemon Server] - 2024-01-27T22:19:31.310Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:19:31.310Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-27T22:19:31.354Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-27T22:19:31.354Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-27T22:19:31.355Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-27T22:19:31.386Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-27T22:19:54.401Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:19:54.402Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-27T22:19:54.402Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:19:54.406Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:19:54.407Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:19:54.408Z - Time taken for 'total for creating and serializing project graph' 0.4169999994337559ms
+[NX Daemon Server] - 2024-01-27T22:19:54.409Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:19:54.409Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-01-27T22:19:54.483Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-01-27T22:19:54.484Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-01-27T22:19:54.484Z - Handled HASH_TASKS. Handling time: 14. Response time: 1.
+[NX Daemon Server] - 2024-01-27T22:19:55.249Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-27T22:19:55.251Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:19:55.252Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-27T22:19:55.254Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:19:55.255Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:19:55.256Z - Time taken for 'total for creating and serializing project graph' 0.29250000044703484ms
+[NX Daemon Server] - 2024-01-27T22:19:55.257Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:19:55.257Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-01-27T22:20:06.385Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:06.494Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:06.697Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:06.915Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:07.056Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:07.256Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:07.349Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:11.311Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:11.402Z - [WATCHER]: Processing file changes in outputs
