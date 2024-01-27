@@ -769,9 +769,15 @@
       "type": "npm",
       "name": "npm:@angular/cdk",
       "data": {
+<<<<<<< HEAD
         "version": "16.2.13",
         "packageName": "@angular/cdk",
         "hash": "sha512-8kn2X2yesvgfIbCUNoS9EDjooIx9LwEglYBbD89Y/do8EeN/CC3Tn02gqSrEfgMhYBLBJmHXbfOhbDDvcvOCeg=="
+=======
+        "version": "16.0.0",
+        "packageName": "@angular/cdk",
+        "hash": "sha512-3hiNRB5kBOYv+MJRlpLX++KzY96mTivE7BXM/pNoR4Hiq7aBnoCtp0zbTc9J7gPn8POX6t/4WfAogslbkvQXSg=="
+>>>>>>> 71221ac6bef03ad385d518f849c9c0220f6140f2
       }
     },
     "npm:parse5@7.1.2": {

@@ -114,6 +114,7 @@
 [NX Daemon Server] - 2024-01-27T20:33:27.921Z - [REQUEST]: Responding to the client. handleRequestFileData
 [NX Daemon Server] - 2024-01-27T20:33:27.921Z - Done responding to the client handleRequestFileData
 [NX Daemon Server] - 2024-01-27T20:33:27.921Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+<<<<<<< HEAD
 [NX Daemon Server] - 2024-01-27T21:25:41.090Z - Started listening on: \\.\pipe\nx\C:\Users\desai\AppData\Local\Temp\9050df9fa1794f2a384c\d.sock
 [NX Daemon Server] - 2024-01-27T21:25:41.100Z - [WATCHER]: Subscribed to changes within: c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd (native)
 [NX Daemon Server] - 2024-01-27T21:25:41.108Z - Established a connection. Number of open connections: 1
@@ -209,3 +210,295 @@
 [NX Daemon Server] - 2024-01-27T21:26:05.851Z - [WATCHER]: Processing file changes in outputs
 [NX Daemon Server] - 2024-01-27T21:26:10.322Z - [WATCHER]: Processing file changes in outputs
 [NX Daemon Server] - 2024-01-27T21:26:10.399Z - [WATCHER]: Processing file changes in outputs
+=======
+[NX Daemon Server] - 2024-01-27T21:57:06.072Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T21:57:06.080Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2024-01-27T21:57:06.190Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-27T21:57:06.190Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2024-01-27T21:57:06.190Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T21:57:06.230Z - Time taken for 'hash changed files from watcher' 0.774899996817112ms
+[NX Daemon Server] - 2024-01-27T22:04:37.616Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-01-27T22:04:37.616Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:04:37.818Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-27T22:04:37.818Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-01-27T22:04:37.818Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T22:04:37.856Z - Time taken for 'hash changed files from watcher' 1.0441000014543533ms
+[NX Daemon Server] - 2024-01-27T22:05:05.676Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-01-27T22:05:05.676Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:05:06.079Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-27T22:05:06.080Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-01-27T22:05:06.080Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T22:05:06.117Z - Time taken for 'hash changed files from watcher' 0.9003999978303909ms
+[NX Daemon Server] - 2024-01-27T22:10:38.866Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:10:38.868Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-01-27T22:10:39.673Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-27T22:10:39.673Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-01-27T22:10:39.673Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T22:10:39.712Z - Time taken for 'hash changed files from watcher' 0.9583999998867512ms
+[NX Daemon Server] - 2024-01-27T22:12:40.526Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2024-01-27T22:12:40.526Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:12:42.143Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-27T22:12:42.143Z - [REQUEST]: src/app/app.module.ts
+[NX Daemon Server] - 2024-01-27T22:12:42.143Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T22:12:42.181Z - Time taken for 'hash changed files from watcher' 1.6585999988019466ms
+[NX Daemon Server] - 2024-01-27T22:13:26.065Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:13:26.067Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2024-01-27T22:13:29.277Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-27T22:13:29.277Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2024-01-27T22:13:29.277Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T22:13:29.312Z - Time taken for 'hash changed files from watcher' 0.8387000001966953ms
+[NX Daemon Server] - 2024-01-27T22:14:11.604Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2024-01-27T22:14:11.604Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:14:18.012Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-27T22:14:18.012Z - [REQUEST]: src/app/app.module.ts
+[NX Daemon Server] - 2024-01-27T22:14:18.012Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T22:14:18.051Z - Time taken for 'hash changed files from watcher' 0.7697999998927116ms
+[NX Daemon Server] - 2024-01-27T22:14:20.649Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-27T22:14:20.649Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:14:20.650Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-27T22:14:20.654Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:14:20.654Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:14:20.655Z - Time taken for 'total for creating and serializing project graph' 0.22500000149011612ms
+[NX Daemon Server] - 2024-01-27T22:14:20.655Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:14:20.655Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-01-27T22:14:20.754Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-01-27T22:14:20.754Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-01-27T22:14:20.754Z - Handled HASH_TASKS. Handling time: 21. Response time: 0.
+[NX Daemon Server] - 2024-01-27T22:14:21.767Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:14:21.768Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:14:21.770Z - Time taken for 'total for creating and serializing project graph' 0.3409000001847744ms
+[NX Daemon Server] - 2024-01-27T22:14:21.770Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:14:21.770Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-01-27T22:14:21.773Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:14:21.774Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-27T22:14:21.774Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:14:21.775Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-27T22:14:21.776Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-27T22:14:21.777Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-27T22:14:21.777Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-27T22:14:22.395Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-27T22:14:22.395Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-27T22:14:22.396Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-27T22:14:22.398Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:14:22.398Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:14:22.400Z - Time taken for 'total for creating and serializing project graph' 0.16200000047683716ms
+[NX Daemon Server] - 2024-01-27T22:14:22.400Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:14:22.400Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-27T22:14:23.649Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-27T22:14:23.649Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-27T22:14:23.650Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-27T22:14:23.653Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:14:23.654Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:14:23.655Z - Time taken for 'total for creating and serializing project graph' 0.20179999992251396ms
+[NX Daemon Server] - 2024-01-27T22:14:23.655Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:14:23.655Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-01-27T22:14:23.681Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:14:23.681Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:14:23.682Z - Time taken for 'total for creating and serializing project graph' 0.17419999837875366ms
+[NX Daemon Server] - 2024-01-27T22:14:23.683Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:14:23.683Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-27T22:14:23.690Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:14:23.690Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:14:23.692Z - Time taken for 'total for creating and serializing project graph' 0.22950000315904617ms
+[NX Daemon Server] - 2024-01-27T22:14:23.692Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:14:23.692Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-27T22:14:23.732Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-27T22:14:23.732Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-27T22:14:23.732Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-01-27T22:14:23.761Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-27T22:14:34.420Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:14:34.560Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:14:34.839Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:14:37.282Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:14:38.031Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:14:38.529Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:14:38.668Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:14:42.647Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:14:42.711Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:07.447Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:07.499Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:07.738Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:07.798Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:10.103Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:10.180Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:10.768Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:12.946Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:13.025Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:13.359Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:13.757Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:14.119Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:14.381Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:18.565Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:17:19.080Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:18:48.681Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:18:48.943Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:18:49.008Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:19:27.992Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-01-27T22:19:27.992Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:19:28.098Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-27T22:19:28.098Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-01-27T22:19:28.098Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T22:19:28.174Z - Time taken for 'hash changed files from watcher' 1.4521000012755394ms
+[NX Daemon Server] - 2024-01-27T22:19:28.510Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:19:28.511Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:19:28.512Z - Time taken for 'total for creating and serializing project graph' 0.3163999989628792ms
+[NX Daemon Server] - 2024-01-27T22:19:28.512Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:19:28.512Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-01-27T22:19:28.516Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-27T22:19:28.517Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-27T22:19:28.517Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-27T22:19:28.517Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-27T22:19:28.520Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-27T22:19:28.520Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-27T22:19:28.520Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-01-27T22:19:29.039Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:19:29.044Z - [WATCHER]: Stopping the watcher for c:\Users\jaspr\.vscode\McHacks11\FrontEnd (sources)
+[NX Daemon Server] - 2024-01-27T22:19:29.044Z - [WATCHER]: Stopping the watcher for c:\Users\jaspr\.vscode\McHacks11\FrontEnd (outputs)
+[NX Daemon Server] - 2024-01-27T22:19:29.044Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2024-01-27T22:19:31.021Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\57ba3a44ce82eec638ff\d.sock
+[NX Daemon Server] - 2024-01-27T22:19:31.025Z - [WATCHER]: Subscribed to changes within: c:\Users\jaspr\.vscode\McHacks11\FrontEnd (native)
+[NX Daemon Server] - 2024-01-27T22:19:31.030Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:19:31.034Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-27T22:19:31.035Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:19:31.036Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:19:31.038Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-27T22:19:31.038Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T22:19:31.038Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T22:19:31.272Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:19:31.274Z - Time taken for 'total for creating and serializing project graph' 235.41869999840856ms
+[NX Daemon Server] - 2024-01-27T22:19:31.275Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:19:31.275Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 236. Response time: 3.
+[NX Daemon Server] - 2024-01-27T22:19:31.299Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:19:31.299Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:19:31.300Z - Time taken for 'total for creating and serializing project graph' 0.2598999999463558ms
+[NX Daemon Server] - 2024-01-27T22:19:31.301Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:19:31.301Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-27T22:19:31.308Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:19:31.308Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:19:31.309Z - Time taken for 'total for creating and serializing project graph' 0.2295999974012375ms
+[NX Daemon Server] - 2024-01-27T22:19:31.310Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:19:31.310Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-27T22:19:31.354Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-27T22:19:31.354Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-27T22:19:31.355Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-27T22:19:31.386Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-27T22:19:54.401Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:19:54.402Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-27T22:19:54.402Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:19:54.406Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:19:54.407Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:19:54.408Z - Time taken for 'total for creating and serializing project graph' 0.4169999994337559ms
+[NX Daemon Server] - 2024-01-27T22:19:54.409Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:19:54.409Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-01-27T22:19:54.483Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-01-27T22:19:54.484Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-01-27T22:19:54.484Z - Handled HASH_TASKS. Handling time: 14. Response time: 1.
+[NX Daemon Server] - 2024-01-27T22:19:55.249Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-27T22:19:55.251Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:19:55.252Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-27T22:19:55.254Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:19:55.255Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T22:19:55.256Z - Time taken for 'total for creating and serializing project graph' 0.29250000044703484ms
+[NX Daemon Server] - 2024-01-27T22:19:55.257Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T22:19:55.257Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-01-27T22:20:06.385Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:06.494Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:06.697Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:06.915Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:07.056Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:07.256Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:07.349Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:11.311Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T22:20:11.402Z - [WATCHER]: Processing file changes in outputs
+>>>>>>> 71221ac6bef03ad385d518f849c9c0220f6140f2
+[NX Daemon Server] - 2024-01-27T22:30:36.212Z - Started listening on: \\.\pipe\nx\C:\Users\desai\AppData\Local\Temp\9050df9fa1794f2a384c\d.sock
+[NX Daemon Server] - 2024-01-27T22:30:36.218Z - [WATCHER]: Subscribed to changes within: c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd (native)
+[NX Daemon Server] - 2024-01-27T22:30:36.220Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:30:36.223Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-27T22:30:36.224Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T22:30:36.226Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T22:30:36.227Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-27T22:30:36.227Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T22:30:36.227Z - [REQUEST]: 
+
+ >  NX   Failed to parse npm lockfile
+
+   Please open an issue at `https://github.com/nrwl/nx/issues/new?template=1-bug.yml` and provide a reproduction.
+   
+Original error: Expected property name or '}' in JSON at position 25730
+
+
+   SyntaxError: Expected property name or '}' in JSON at position 25730
+    at JSON.parse (<anonymous>)
+    at parsePackageLockFile (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\npm-parser.js:20:26)
+    at getNpmLockfileNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\npm-parser.js:26:18)
+    at getLockFileNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\lock-file.js:39:57)
+    at exports.createNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\index.js:42:64)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Unable to create nodes for package-lock.json using plugin nx-js-graph-plugin. 
+
+	 Inner Error: SyntaxError: Expected property name or '}' in JSON at position 25730
+    at JSON.parse (<anonymous>)
+    at parsePackageLockFile (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\npm-parser.js:20:26)
+    at getNpmLockfileNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\npm-parser.js:26:18)
+    at getLockFileNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\lock-file.js:39:57)
+    at exports.createNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\index.js:42:64)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[NX Daemon Server] - 2024-01-27T22:30:36.350Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Unable to create nodes for package-lock.json using plugin nx-js-graph-plugin. 
+
+	 Inner Error: SyntaxError: Expected property name or '}' in JSON at position 25730
+    at JSON.parse (<anonymous>)
+    at parsePackageLockFile (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\npm-parser.js:20:26)
+    at getNpmLockfileNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\npm-parser.js:26:18)
+    at getLockFileNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\lock-file.js:39:57)
+    at exports.createNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\index.js:42:64)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+CreateNodesError: Unable to create nodes for package-lock.json using plugin nx-js-graph-plugin. 
+
+	 Inner Error: SyntaxError: Expected property name or '}' in JSON at position 25730
+    at JSON.parse (<anonymous>)
+    at parsePackageLockFile (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\npm-parser.js:20:26)
+    at getNpmLockfileNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\npm-parser.js:26:18)
+    at getLockFileNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\lock-file.js:39:57)
+    at exports.createNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\index.js:42:64)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:152:27)
+    at createProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    ... 2 lines matching cause stack trace ...
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\daemon\server\server.js:81:9) {
+  [cause]: SyntaxError: Expected property name or '}' in JSON at position 25730
+      at JSON.parse (<anonymous>)
+      at parsePackageLockFile (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\npm-parser.js:20:26)
+      at getNpmLockfileNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\npm-parser.js:26:18)
+      at getLockFileNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\lock-file\lock-file.js:39:57)
+      at exports.createNodes (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\plugins\js\index.js:42:64)
+      at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+      at createProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+      at _retrieveProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+      at retrieveProjectConfigurations (c:\Users\desai\OneDrive\Desktop\McHacks11\FrontEnd\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[NX Daemon Server] - 2024-01-27T22:30:36.355Z - Time taken for 'hash changed files from watcher' 0.2725999355316162ms
+[NX Daemon Server] - 2024-01-27T22:30:36.363Z - Done responding to the client null

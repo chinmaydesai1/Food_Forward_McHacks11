@@ -3,6 +3,7 @@
   "nxVersion": "17.2.8",
   "deps": {
     "@angular/animations": "^16.0.0",
+    "@angular/cdk": "^16.0.0",
     "@angular/common": "^16.0.0",
     "@angular/compiler": "^16.0.0",
     "@angular/core": "^16.0.0",
@@ -77,6 +78,7 @@
           "hash": "7202186731692768322",
           "deps": [
             "npm:@angular/animations",
+            "npm:@angular/cdk",
             "npm:@angular/common",
             "npm:@angular/compiler",
             "npm:@angular/core",
@@ -123,7 +125,11 @@
         },
         {
           "file": "src/app/app.component.html",
+<<<<<<< HEAD
           "hash": "15977095600974839702"
+=======
+          "hash": "17651112957305708324"
+>>>>>>> 71221ac6bef03ad385d518f849c9c0220f6140f2
         },
         {
           "file": "src/app/app.component.scss",
@@ -139,17 +145,30 @@
         },
         {
           "file": "src/app/app.component.ts",
+<<<<<<< HEAD
           "hash": "661133520008724390",
+=======
+          "hash": "12990148108951237654",
+>>>>>>> 71221ac6bef03ad385d518f849c9c0220f6140f2
           "deps": [
-            "npm:@angular/core"
+            "npm:@angular/core",
+            "npm:@nebular/theme"
           ]
         },
         {
           "file": "src/app/app.module.ts",
+<<<<<<< HEAD
           "hash": "7042628611948641030",
+=======
+          "hash": "4478975030139131628",
+>>>>>>> 71221ac6bef03ad385d518f849c9c0220f6140f2
           "deps": [
             "npm:@angular/core",
-            "npm:@angular/platform-browser"
+            "npm:@angular/platform-browser",
+            "npm:@nebular/theme",
+            "npm:@angular/router",
+            "npm:@angular/common",
+            "npm:@nebular/eva-icons"
           ]
         },
         {
