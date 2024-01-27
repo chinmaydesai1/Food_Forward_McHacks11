@@ -92,3 +92,25 @@
 [NX Daemon Server] - 2024-01-27T20:25:58.254Z - [WATCHER]: Processing file changes in outputs
 [NX Daemon Server] - 2024-01-27T20:26:02.674Z - [WATCHER]: Processing file changes in outputs
 [NX Daemon Server] - 2024-01-27T20:26:02.830Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-27T20:33:05.067Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-27T20:33:05.067Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T20:33:27.664Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\57ba3a44ce82eec638ff\d.sock
+[NX Daemon Server] - 2024-01-27T20:33:27.668Z - [WATCHER]: Subscribed to changes within: c:\Users\jaspr\.vscode\McHacks11\FrontEnd (native)
+[NX Daemon Server] - 2024-01-27T20:33:27.672Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T20:33:27.674Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-27T20:33:27.675Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T20:33:27.678Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-27T20:33:27.680Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-27T20:33:27.680Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T20:33:27.680Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-27T20:33:27.907Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-27T20:33:27.909Z - Time taken for 'total for creating and serializing project graph' 229.21609999984503ms
+[NX Daemon Server] - 2024-01-27T20:33:27.910Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-27T20:33:27.910Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 229. Response time: 3.
+[NX Daemon Server] - 2024-01-27T20:33:27.915Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-27T20:33:27.916Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T20:33:27.916Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-27T20:33:27.916Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-27T20:33:27.921Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-27T20:33:27.921Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-27T20:33:27.921Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
