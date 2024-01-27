@@ -42,39 +42,39 @@
       "FrontEnd": [
         {
           "file": ".editorconfig",
-          "hash": "6686520031028425313"
+          "hash": "17241496168097493888"
         },
         {
           "file": ".gitignore",
-          "hash": "13044518069027839699"
+          "hash": "4689145951703824387"
         },
         {
           "file": ".vscode/extensions.json",
-          "hash": "12343942279124280405"
+          "hash": "6740797025222968025"
         },
         {
           "file": ".vscode/launch.json",
-          "hash": "17038929134016848735"
+          "hash": "17406702432687230417"
         },
         {
           "file": ".vscode/tasks.json",
-          "hash": "5336636969995539451"
+          "hash": "10093397977228577162"
         },
         {
           "file": "README.md",
-          "hash": "9674884162398583583"
+          "hash": "17568147228569099430"
         },
         {
           "file": "nx.json",
-          "hash": "2846808291929282824"
+          "hash": "15329929871676255151"
         },
         {
           "file": "package-lock.json",
-          "hash": "11564579749878329552"
+          "hash": "2596017281577104500"
         },
         {
           "file": "package.json",
-          "hash": "5379345315170437580",
+          "hash": "7202186731692768322",
           "deps": [
             "npm:@angular/animations",
             "npm:@angular/common",
@@ -111,11 +111,11 @@
         },
         {
           "file": "project.json",
-          "hash": "15297980307650170974"
+          "hash": "16691103821060457508"
         },
         {
           "file": "src/app/app-routing.module.ts",
-          "hash": "6250625392482207240",
+          "hash": "15638978050551223935",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/router"
@@ -123,7 +123,7 @@
         },
         {
           "file": "src/app/app.component.html",
-          "hash": "7733953917708967165"
+          "hash": "15977095600974839702"
         },
         {
           "file": "src/app/app.component.scss",
@@ -131,7 +131,7 @@
         },
         {
           "file": "src/app/app.component.spec.ts",
-          "hash": "3223819480989612926",
+          "hash": "2278128444643707878",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/router"
@@ -139,14 +139,14 @@
         },
         {
           "file": "src/app/app.component.ts",
-          "hash": "7849806318531239817",
+          "hash": "661133520008724390",
           "deps": [
             "npm:@angular/core"
           ]
         },
         {
           "file": "src/app/app.module.ts",
-          "hash": "1341940988703171679",
+          "hash": "7042628611948641030",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/platform-browser"
@@ -162,30 +162,30 @@
         },
         {
           "file": "src/index.html",
-          "hash": "11412929333146849621"
+          "hash": "7071023234128838595"
         },
         {
           "file": "src/main.ts",
-          "hash": "12246588107753938993",
+          "hash": "9374417435436826166",
           "deps": [
             "npm:@angular/platform-browser-dynamic"
           ]
         },
         {
           "file": "src/styles.scss",
-          "hash": "5195668842064076916"
+          "hash": "2917954890128038984"
         },
         {
           "file": "tsconfig.app.json",
-          "hash": "17337579397915052279"
+          "hash": "13119632651406065538"
         },
         {
           "file": "tsconfig.json",
-          "hash": "1047940026627514556"
+          "hash": "1426335498558518182"
         },
         {
           "file": "tsconfig.spec.json",
-          "hash": "15575553540147145788"
+          "hash": "5122839733245053999"
         }
       ]
     }
