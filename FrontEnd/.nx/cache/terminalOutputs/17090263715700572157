@@ -2,27 +2,1144 @@
 [1mWould you like to use a different port?[22m[0m [0m[2m(Y/n) [22m[46D[46C[2K[1A[2K[G[32m?[39m [1mPort 4200 is already in use.[22m
 [1mWould you like to use a different port?[22m[0m [0m[2m(Y/n) [22my[47D[47C[2K[1A[2K[G[32m?[39m [1mPort 4200 is already in use.[22m
 [1mWould you like to use a different port?[22m[0m [0m[36mYes[39m[43D[43C
-[36m⠋[39m Generating browser application bundles (phase: setup)...[2K[1G[1A[2K[1G[36m⠙[39m Generating browser application bundles (phase: setup)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[1A[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[1A[2K[1G[32m✔[39m Browser application bundle generation complete.
+[36m⠋[39m Generating browser application bundles (phase: setup)...[2K[1G[1A[2K[1G[36m⠙[39m Generating browser application bundles (phase: setup)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[1A[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[1A[2K[1G[32m✔[39m Browser application bundle generation complete.
 [37m[39m
 [37m[0m[1mInitial Chunk Files[22m  [2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[0m[39m
-[37m[0m[92mvendor.js[39m[37m            [2m | [22mvendor       [2m | [22m  [96m2.35 MB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mvendor.js[39m[37m            [2m | [22mvendor       [2m | [22m  [96m4.52 MB[39m[37m[2m | [22m[0m[39m
 [37m[0m[92mstyles.css, styles.js[39m[37m[2m | [22mstyles       [2m | [22m[96m543.62 kB[39m[37m[2m | [22m[0m[39m
 [37m[0m[92mpolyfills.js[39m[37m         [2m | [22mpolyfills    [2m | [22m[96m333.16 kB[39m[37m[2m | [22m[0m[39m
-[37m[0m[92mmain.js[39m[37m              [2m | [22mmain         [2m | [22m [96m48.73 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mmain.js[39m[37m              [2m | [22mmain         [2m | [22m [96m10.53 kB[39m[37m[2m | [22m[0m[39m
 [37m[0m[92mruntime.js[39m[37m           [2m | [22mruntime      [2m | [22m  [96m6.51 kB[39m[37m[2m | [22m[0m[39m
 [37m[0m[0m[39m
-[37m[0m[1m [22m                    [2m | [22m[1mInitial Total[22m[2m | [22m  [1m3.26 MB[22m[0m[39m
+[37m[0m[1m [22m                    [2m | [22m[1mInitial Total[22m[2m | [22m  [1m5.39 MB[22m[0m[39m
 [37m[0m[0m[39m
-[37m[0mBuild at: [1m[37m2024-01-27T20:25:59.100Z[39m[37m[22m - Hash: [1m[37m6973d4be89e45214[39m[37m[22m - Time: [1m[37m10412[39m[37m[22mms[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-27T22:14:40.416Z[39m[37m[22m - Hash: [1m[37m611b052923759fd3[39m[37m[22m - Time: [1m[37m10968[39m[37m[22mms[0m[39m
+[1m[33m[39m[22m
+[1m[33m[0m[33mWarning: [39m[33m[0mC:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\eva-icons\fesm2022\nebular-eva-icons.mjs depends on 'eva-icons'. CommonJS or AMD dependencies can cause optimization bailouts.[39m[22m
+[1m[33mFor more info see: https://angular.io/guide/build#configuring-commonjs-dependencies[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m11:0-40[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/a11y' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m13:0-128[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/portal' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m14:0-43[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/overlay' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m16:0-49[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/platform' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m19:0-63[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/bidi' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m20:0-41[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/table' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m22:0-62[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/coercion' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[39m[22m[1m[31m[93m23:0-97[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/collections' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m24:0-80[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/keycodes' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/block-scroll-strategy-adapter.d.ts[0m:[93m2[0m:[93m78[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { BlockScrollStrategy, ScrollDispatcher, ScrollStrategyOptions } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                                             ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/block-scroll-strategy-adapter.d.ts[0m:[93m29[0m:[93m70[0m - [91merror[0m[90m TS2344: [0mType '"noop" | "close" | "block" | "reposition"' does not satisfy the constraint '"block"'.[39m[22m
+[1m[31m  Type '"noop"' is not assignable to type '"block"'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m29[0m export type NbScrollStrategies = keyof Pick<NbScrollStrategyOptions, 'noop' | 'close' | 'block' | 'reposition'>;[39m[22m
+[1m[31m[7m  [0m [91m                                                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/scroll-dispatcher-adapter.d.ts[0m:[93m2[0m:[93m49[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkScrollable, ScrollDispatcher } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91m[39m[22m[1m[31mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/viewport-ruler-adapter.d.ts[0m:[93m2[0m:[93m31[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { ViewportRuler } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/a11y.module.d.ts[0m:[93m2[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusMonitor } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/descendant-key-manager.d.ts[0m:[93m1[0m:[93m59[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { ActiveDescendantKeyManager, Highlightable } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                          ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/focus-key-manager.d.ts[0m:[93m2[0m:[93m50[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusableOption, FocusKeyManager } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                 ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/focus-trap.d.ts[0m:[93m2[0m:[93m67[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusTrap, FocusTrapFactory, InteractivityChecker } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                       [39m[22m[1m[31m                           ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/bidi/bidi-service.d.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/bidi' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { Directionality } from '@angular/cdk/bidi';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/bidi/bidi.module.d.ts[0m:[93m1[0m:[93m28[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/bidi' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { BidiModule } from '@angular/cdk/bidi';[39m[22m
+[1m[31m[7m [0m [91m                           ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/collections/collection-viewer.d.ts[0m:[93m1[0m:[93m45[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { CollectionViewer, ListRange } from '@angular/cdk/collections';[39m[22m
+[1m[31m[7m [0m [91m                                            ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/dynamic/dynamic-overlay.d.ts[0m:[93m31[0m:[93m47[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m31[0m     protected overlayDestroy$: Subject<import("@angular/cdk/overlay").OverlayRef>;[39m[22m
+[1m[31m[7m  [0m [91m                                              ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m2[0m:[93m101[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/portal' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkPortal, CdkPortalOutlet, ComponentPortal, Portal, PortalInjector,[39m[22m[1m[31m TemplatePortal } from '@angular/cdk/portal';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                    ~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m3[0m:[93m253[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { ComponentType, ConnectedOverlayPositionChange, ConnectedPosition, ConnectionPositionPair, FlexibleConnectedPositionStrategy, Overlay, OverlayConfig, OverlayContainer, OverlayPositionBuilder, OverlayRef, PositionStrategy, ScrollStrategy } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                                                                                                                                                            ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m6[0m:[93m21[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m6[0m import * as i1 from "@angular/cdk/overlay";[39m[22m
+[1m[31m[7m [0m [91m                    ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m7[0m:[93m21[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/portal' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m7[0m import * as i2 from "@angular/cdk/portal";[39m[22m
+[1m[31m[7m [0m [91m                    ~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/overlay-position.d.ts[0m:[93m2[0m:[93m40[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import {[39m[22m[1m[31m GlobalPositionStrategy } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/platform/platform-service.d.ts[0m:[93m1[0m:[93m26[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/platform' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { Platform } from '@angular/cdk/platform';[39m[22m
+[1m[31m[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/cell.d.ts[0m:[93m2[0m:[93m117[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkCell, CdkCellDef, CdkColumnDef, CdkFooterCell, CdkFooterCellDef, CdkHeaderCell, CdkHeaderCellDef } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                    ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/data-source.d.ts[0m:[93m1[0m:[93m28[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { DataSource } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                           ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/row.d.ts[0m:[93m1[0m:[93m178[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { CdkFooterRow, CdkFooterRowDef, CdkHeaderRow, CdkHeaderRowDef, CdkRow, CdkRowDef, CdkCellOutlet, DataRowOutlet, HeaderRowOutlet, FooterRowOutlet, NoDataRowOutlet } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                           [39m[22m[1m[31m                                                                      ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m2[0m:[93m118[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { _CoalescedStyleScheduler, CdkTable, CdkTableModule, RenderRow, RowContext, StickyPositioningListener } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                     ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m3[0m:[93m31[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { _ViewRepeater } from '@angular/cdk/collections';[39m[22m
+[1m[31m[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m12[0m:[93m127[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m export declare const NB_VIEW_REPEATER_STRATEGY: import("@angular/core").InjectionToken<_ViewRepeater<unknown, unknown, import("@angular/cdk/collections")._ViewRepeaterItemContext<unknown>>>;[39m[22m
+[1m[31m[7m  [0m [91m                                                                                                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/select-with-autocomplete/select-with-autocomplete.component.d.ts[0m:[93m4[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m4[0m import { ListKeyManager } from '@angular[39m[22m[1m[31m/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
 [37m[39m
-[37m** Angular Live Development Server is listening on localhost:64624, open your browser on http://localhost:64624/ **[39m
+[37m** Angular Live Development Server is listening on localhost:50911, open your browser on http://localhost:50911/ **[39m
 [37m[39m
 [37m[39m
-[37m[92m√[39m[37m Compiled successfully.[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[1A[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m [96m6.51 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-27T22:17:06.052Z[39m[37m[22m - Hash: [1m[37m791c627a5bb71d39[39m[37m[22m - Time: [1m[37m771[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m11:0-40[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/a11y' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m13:0-128[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/portal' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m14:0-43[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/overlay' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m16:0-49[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/platform' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m19:0-63[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/bidi' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m20:0-41[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/table' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m22:0-62[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/coercion' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[39m[22m[1m[31m[93m23:0-97[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/collections' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m24:0-80[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/keycodes' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/block-scroll-strategy-adapter.d.ts[0m:[93m2[0m:[93m78[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { BlockScrollStrategy, ScrollDispatcher, ScrollStrategyOptions } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                                             ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/block-scroll-strategy-adapter.d.ts[0m:[93m29[0m:[93m70[0m - [91merror[0m[90m TS2344: [0mType '"noop" | "close" | "block" | "reposition"' does not satisfy the constraint '"block"'.[39m[22m
+[1m[31m  Type '"noop"' is not assignable to type '"block"'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m29[0m export type NbScrollStrategies = keyof Pick<NbScrollStrategyOptions, 'noop' | 'close' | 'block' | 'reposition'>;[39m[22m
+[1m[31m[7m  [0m [91m                                                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/scroll-dispatcher-adapter.d.ts[0m:[93m2[0m:[93m49[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkScrollable, ScrollDispatcher } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91m[39m[22m[1m[31mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/viewport-ruler-adapter.d.ts[0m:[93m2[0m:[93m31[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { ViewportRuler } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/a11y.module.d.ts[0m:[93m2[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusMonitor } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/descendant-key-manager.d.ts[0m:[93m1[0m:[93m59[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { ActiveDescendantKeyManager, Highlightable } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                          ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/focus-key-manager.d.ts[0m:[93m2[0m:[93m50[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusableOption, FocusKeyManager } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                 ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/focus-trap.d.ts[0m:[93m2[0m:[93m67[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusTrap, FocusTrapFactory, InteractivityChecker } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                       [39m[22m[1m[31m                           ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/bidi/bidi-service.d.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/bidi' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { Directionality } from '@angular/cdk/bidi';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/bidi/bidi.module.d.ts[0m:[93m1[0m:[93m28[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/bidi' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { BidiModule } from '@angular/cdk/bidi';[39m[22m
+[1m[31m[7m [0m [91m                           ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/collections/collection-viewer.d.ts[0m:[93m1[0m:[93m45[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { CollectionViewer, ListRange } from '@angular/cdk/collections';[39m[22m
+[1m[31m[7m [0m [91m                                            ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/dynamic/dynamic-overlay.d.ts[0m:[93m31[0m:[93m47[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m31[0m     protected overlayDestroy$: Subject<import("@angular/cdk/overlay").OverlayRef>;[39m[22m
+[1m[31m[7m  [0m [91m                                              ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m2[0m:[93m101[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/portal' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkPortal, CdkPortalOutlet, ComponentPortal, Portal, PortalInjector,[39m[22m[1m[31m TemplatePortal } from '@angular/cdk/portal';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                    ~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m3[0m:[93m253[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { ComponentType, ConnectedOverlayPositionChange, ConnectedPosition, ConnectionPositionPair, FlexibleConnectedPositionStrategy, Overlay, OverlayConfig, OverlayContainer, OverlayPositionBuilder, OverlayRef, PositionStrategy, ScrollStrategy } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                                                                                                                                                            ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m6[0m:[93m21[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m6[0m import * as i1 from "@angular/cdk/overlay";[39m[22m
+[1m[31m[7m [0m [91m                    ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m7[0m:[93m21[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/portal' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m7[0m import * as i2 from "@angular/cdk/portal";[39m[22m
+[1m[31m[7m [0m [91m                    ~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/overlay-position.d.ts[0m:[93m2[0m:[93m40[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import {[39m[22m[1m[31m GlobalPositionStrategy } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/platform/platform-service.d.ts[0m:[93m1[0m:[93m26[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/platform' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { Platform } from '@angular/cdk/platform';[39m[22m
+[1m[31m[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/cell.d.ts[0m:[93m2[0m:[93m117[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkCell, CdkCellDef, CdkColumnDef, CdkFooterCell, CdkFooterCellDef, CdkHeaderCell, CdkHeaderCellDef } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                    ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/data-source.d.ts[0m:[93m1[0m:[93m28[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { DataSource } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                           ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/row.d.ts[0m:[93m1[0m:[93m178[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { CdkFooterRow, CdkFooterRowDef, CdkHeaderRow, CdkHeaderRowDef, CdkRow, CdkRowDef, CdkCellOutlet, DataRowOutlet, HeaderRowOutlet, FooterRowOutlet, NoDataRowOutlet } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                           [39m[22m[1m[31m                                                                      ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m2[0m:[93m118[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { _CoalescedStyleScheduler, CdkTable, CdkTableModule, RenderRow, RowContext, StickyPositioningListener } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                     ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m3[0m:[93m31[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { _ViewRepeater } from '@angular/cdk/collections';[39m[22m
+[1m[31m[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m12[0m:[93m127[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m export declare const NB_VIEW_REPEATER_STRATEGY: import("@angular/core").InjectionToken<_ViewRepeater<unknown, unknown, import("@angular/cdk/collections")._ViewRepeaterItemContext<unknown>>>;[39m[22m
+[1m[31m[7m  [0m [91m                                                                                                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/select-with-autocomplete/select-with-autocomplete.component.d.ts[0m:[93m4[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m4[0m import { ListKeyManager } from '@angular[39m[22m[1m[31m/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[1A[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mvendor.js[39m[37m          [2m | [22mvendor [2m | [22m [96m6.05 MB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m [96m6.51 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m3 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-27T22:17:12.486Z[39m[37m[22m - Hash: [1m[37m5a133a26840c4507[39m[37m[22m - Time: [1m[37m6102[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m13:0-128[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/portal' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m14:0-43[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/overlay' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m16:0-49[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/platform' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m20:0-41[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/table' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m22:0-62[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/coercion' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m23:0-97[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/collections' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@nebular/theme/fesm2022/nebular-theme.mjs[39m[31m[0m:[0m[93m24:0-80[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/keycodes' in 'C:\Users\jaspr\.vscode\McHacks11\FrontEnd\node_modules\@nebular\theme\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/a11y.mjs[39m[31m[0m:[0m[39m[22m[1m[31m[93m1:0-43[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/common' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/a11y.mjs[39m[31m[0m:[0m[93m4:0-44[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/platform' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/a11y.mjs[39m[31m[0m:[0m[93m6:0-66[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve 'rxjs' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/a11y.mjs[39m[31m[0m:[0m[93m7:0-193[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/keycodes' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/a11y.mjs[39m[31m[0m:[0m[93m8:0-109[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve 'rxjs/operators' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/a11y.mjs[39m[31m[0m:[0m[93m11:0-54[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/coercion' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/bidi.mjs[39m[31m[0m:[0m[93m3:0-43[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/common' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/layout.mjs[39m[31m[0m:[0m[93m3:0-52[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/coercion' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/layout.mjs[39m[31m[0m:[39m[22m[1m[31m[0m[93m4:0-66[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve 'rxjs' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/layout.mjs[39m[31m[0m:[0m[93m5:0-85[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve 'rxjs/operators' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/layout.mjs[39m[31m[0m:[0m[93m6:0-44[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/platform' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/observers.mjs[39m[31m[0m:[0m[93m1:0-76[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@angular/cdk/coercion' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/observers.mjs[39m[31m[0m:[0m[93m4:0-43[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve 'rxjs' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/observers.mjs[39m[31m[0m:[0m[93m5:0-46[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve 'rxjs/operators' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/core/fesm2022/core.mjs[39m[31m[0m:[0m[93m8:0-62[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve 'rxjs' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\core\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/core/fesm2022/core.mjs[39m[31m[0m:[0m[93m9:0-44[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve 'rxjs/operators' in 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\core\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/bl[39m[22m[1m[31mock-scroll-strategy-adapter.d.ts[0m:[93m2[0m:[93m78[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { BlockScrollStrategy, ScrollDispatcher, ScrollStrategyOptions } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                                             ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/block-scroll-strategy-adapter.d.ts[0m:[93m29[0m:[93m70[0m - [91merror[0m[90m TS2344: [0mType '"noop" | "close" | "block" | "reposition"' does not satisfy the constraint '"block"'.[39m[22m
+[1m[31m  Type '"noop"' is not assignable to type '"block"'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m29[0m export type NbScrollStrategies = keyof Pick<NbScrollStrategyOptions, 'noop' | 'close' | 'block' | 'reposition'>;[39m[22m
+[1m[31m[7m  [0m [91m                                                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/scroll-dispatcher-adapter.d.ts[0m:[93m2[0m:[93m49[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkScrollable, ScrollDispatcher } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/viewport-ruler-adapter.d.ts[0m:[93m2[0m:[93m31[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { ViewportRuler } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/a11y.module.d.ts[0m:[93m2[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find modu[39m[22m[1m[31mle '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusMonitor } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/descendant-key-manager.d.ts[0m:[93m1[0m:[93m59[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { ActiveDescendantKeyManager, Highlightable } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                          ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/focus-key-manager.d.ts[0m:[93m2[0m:[93m50[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusableOption, FocusKeyManager } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                 ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/focus-trap.d.ts[0m:[93m2[0m:[93m67[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusTrap, FocusTrapFactory, InteractivityChecker } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                                  ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/bidi/bidi-service.d.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/bidi' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { Directionality } from '@angular/cdk/bidi';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/bidi/bidi.module.d.ts[0m:[93m1[0m:[93m28[0m - [91m[39m[22m[1m[31merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/bidi' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { BidiModule } from '@angular/cdk/bidi';[39m[22m
+[1m[31m[7m [0m [91m                           ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/collections/collection-viewer.d.ts[0m:[93m1[0m:[93m45[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { CollectionViewer, ListRange } from '@angular/cdk/collections';[39m[22m
+[1m[31m[7m [0m [91m                                            ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/dynamic/dynamic-overlay.d.ts[0m:[93m31[0m:[93m47[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m31[0m     protected overlayDestroy$: Subject<import("@angular/cdk/overlay").OverlayRef>;[39m[22m
+[1m[31m[7m  [0m [91m                                              ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m2[0m:[93m101[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/portal' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkPortal, CdkPortalOutlet, ComponentPortal, Portal, PortalInjector, TemplatePortal } from '@angular/cdk/portal';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                    ~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m3[0m:[93m253[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { ComponentType, ConnectedOverlayPositionChange, ConnectedPosition, ConnectionPositionPair, FlexibleConnected[39m[22m[1m[31mPositionStrategy, Overlay, OverlayConfig, OverlayContainer, OverlayPositionBuilder, OverlayRef, PositionStrategy, ScrollStrategy } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                                                                                                                                                            ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m6[0m:[93m21[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m6[0m import * as i1 from "@angular/cdk/overlay";[39m[22m
+[1m[31m[7m [0m [91m                    ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m7[0m:[93m21[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/portal' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m7[0m import * as i2 from "@angular/cdk/portal";[39m[22m
+[1m[31m[7m [0m [91m                    ~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/overlay-position.d.ts[0m:[93m2[0m:[93m40[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { GlobalPositionStrategy } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/platform/platform-service.d.ts[0m:[93m1[0m:[93m26[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/platform' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { Platform } from '@angular/cdk/platform';[39m[22m
+[1m[31m[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_[39m[22m[1m[31mmodules/@nebular/theme/components/cdk/table/cell.d.ts[0m:[93m2[0m:[93m117[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkCell, CdkCellDef, CdkColumnDef, CdkFooterCell, CdkFooterCellDef, CdkHeaderCell, CdkHeaderCellDef } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                    ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/data-source.d.ts[0m:[93m1[0m:[93m28[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { DataSource } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                           ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/row.d.ts[0m:[93m1[0m:[93m178[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { CdkFooterRow, CdkFooterRowDef, CdkHeaderRow, CdkHeaderRowDef, CdkRow, CdkRowDef, CdkCellOutlet, DataRowOutlet, HeaderRowOutlet, FooterRowOutlet, NoDataRowOutlet } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                                                                                 ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m2[0m:[93m118[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { _CoalescedStyleScheduler, CdkTable, CdkTableModule, RenderRow, RowContext, StickyPositioningListener } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                     [39m[22m[1m[31m                                                                ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m3[0m:[93m31[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { _ViewRepeater } from '@angular/cdk/collections';[39m[22m
+[1m[31m[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m12[0m:[93m127[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m export declare const NB_VIEW_REPEATER_STRATEGY: import("@angular/core").InjectionToken<_ViewRepeater<unknown, unknown, import("@angular/cdk/collections")._ViewRepeaterItemContext<unknown>>>;[39m[22m
+[1m[31m[7m  [0m [91m                                                                                                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/select-with-autocomplete/select-with-autocomplete.component.d.ts[0m:[93m4[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m4[0m import { ListKeyManager } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[1A[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mvendor.js[39m[37m          [2m | [22mvendor [2m | [22m [96m6.77 MB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m [96m6.51 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m3 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-27T22:17:16.709Z[39m[37m[22m - Hash: [1m[37m07c60ad5cf5e1427[39m[37m[22m - Time: [1m[37m4103[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/table.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mTypeError: Cannot create property 'message' on string 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\table.mjs: This application depends upon a library published using Angular version 17.1.0-next.5, which requires Angular version 17.0.0 or newer to work correctly.[39m[22m
+[1m[31mConsider upgrading your application to use a more recent version of Angular.[39m[22m
+[1m[31m[0m [90m 2032 |[39m[31m     }[0m[39m[22m
+[1m[31m[0m [90m 2033 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵfac [33m=[39m[31m i0[33m.[39m[31mɵɵngDeclareFactory({ minVersion[33m:[39m[31m [32m"12.0.0"[39m[31m[33m,[39m[31m version[33m:[39m[31m [32m"17.1.0-next.5"[39m[31m[33m,[39m[31m ngImport[33m:[39m[31m i0[33m,[39m[31m type[33m:[39m[31m [33mCdkTable[39m[31m[33m,[39m[31m deps[33m:[39m[31m [{ token[33m:[39m[31m i0[33m.[39m[31m[33mIterableDiffers[39m[31m }[33m,[39m[31m { token[33m:[39m[31m i0[33m.[39m[31m[33mChangeDetectorRef[39m[31m }[33m,[39m[31m { token[33m:[39m[31m i0[33m.[39m[31m[33mElementRef[39m[31m }[33m,[39m[31m { token[33m:[39m[31m [32m'role'[39m[31m[33m,[39m[31m attribute[33m:[39m[31m [36mtrue[39m[31m }[33m,[39m[31m { token[33m:[39m[31m i1[33m.[39m[31m[33mDirectionality[39m[31m[33m,[39m[31m optional[33m:[39m[31m [36mtrue[39m[31m }[33m,[39m[31m { token[33m:[39m[31m [33mDOCUMENT[39m[31m }[33m,[39m[31m { token[33m:[39m[31m i2[33m.[39m[31m[33mPlatform[39m[31m }[33m,[39m[31m { token[33m:[39m[31m _VIEW_REPEATER_STRATEGY }[33m,[39m[31m { token[33m:[39m[31m _COALESCED_STYLE_SCHEDULER }[33m,[39m[31m { token[33m:[39m[31m i3[33m.[39m[31m[33mViewportRuler[39m[31m }[33m,[39m[31m { token[33m:[39m[31m [33mSTICKY_POSITIONING_LISTENER[39m[31m[33m,[39m[31m optional[33m:[39m[31m [36mtrue[39m[31m[33m,[39m[31m skipSelf[33m:[39m[31m [36mtrue[39m[31m }[33m,[39m[31m { token[33m:[39m[31m i0[33m.[39m[31m[33mNgZone[39m[31m[33m,[39m[31m optional[33m:[39m[31m [36mtrue[39m[31m }][33m,[39m[31m target[33m:[39m[31m i0[33m.[39m[31mɵɵFactoryTarget[33m.[39m[31m[33mComponent[39m[31m })[33[39m[22m[1m[31mm;[39m[31m }[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 2034 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵcmp [33m=[39m[31m i0[33m.[39m[31mɵɵngDeclareComponent({ minVersion[33m:[39m[31m [32m"17.0.0"[39m[31m[33m,[39m[31m version[33m:[39m[31m [32m"17.1.0-next.5"[39m[31m[33m,[39m[31m type[33m:[39m[31m [33mCdkTable[39m[31m[33m,[39m[31m isStandalone[33m:[39m[31m [36mtrue[39m[31m[33m,[39m[31m selector[33m:[39m[31m [32m"cdk-table, table[cdk-table]"[39m[31m[33m,[39m[31m inputs[33m:[39m[31m { trackBy[33m:[39m[31m [32m"trackBy"[39m[31m[33m,[39m[31m dataSource[33m:[39m[31m [32m"dataSource"[39m[31m[33m,[39m[31m multiTemplateDataRows[33m:[39m[31m [[32m"multiTemplateDataRows"[39m[31m[33m,[39m[31m [32m"multiTemplateDataRows"[39m[31m[33m,[39m[31m booleanAttribute][33m,[39m[31m fixedLayout[33m:[39m[31m [[32m"fixedLayout"[39m[31m[33m,[39m[31m [32m"fixedLayout"[39m[31m[33m,[39m[31m booleanAttribute] }[33m,[39m[31m outputs[33m:[39m[31m { contentChanged[33m:[39m[31m [32m"contentChanged"[39m[31m }[33m,[39m[31m host[33m:[39m[31m { properties[33m:[39m[31m { [32m"class.cdk-table-fixed-layout"[39m[31m[33m:[39m[31m [32m"fixedLayout"[39m[31m }[33m,[39m[31m classAttribute[33m:[39m[31m [32m"cdk-table"[39m[31m }[33m,[39m[31m providers[33m:[39m[31m [[0m[39m[22m
+[1m[31m[0m [90m      |[39m[31m                          [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 2035 |[39m[31m             { provide[33m:[39m[31m [33mCDK_TABLE[39m[31m[33m,[39m[31m useExisting[33m:[39m[31m [33mCdkTable[39m[31m }[33m,[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 2036 |[39m[31m             { provide[33m:[39m[31m _VIEW_REPEATER_STRATEGY[33m,[39m[31m useClass[33m:[39m[31m _DisposeViewRepeaterStrategy }[33m,[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 2037 |[39m[31m             { provide[33m:[39m[31m _COALESCED_STYLE_SCHEDULER[33m,[39m[31m useClass[33m:[39m[31m _CoalescedStyleScheduler }[33m,[39m[31m[0m'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/block-scroll-strategy-adapter.d.ts[0m:[93m2[0m:[93m78[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { BlockScrollStrategy, ScrollDispatcher, Scro[39m[22m[1m[31mllStrategyOptions } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                                             ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/block-scroll-strategy-adapter.d.ts[0m:[93m29[0m:[93m70[0m - [91merror[0m[90m TS2344: [0mType '"noop" | "close" | "block" | "reposition"' does not satisfy the constraint '"block"'.[39m[22m
+[1m[31m  Type '"noop"' is not assignable to type '"block"'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m29[0m export type NbScrollStrategies = keyof Pick<NbScrollStrategyOptions, 'noop' | 'close' | 'block' | 'reposition'>;[39m[22m
+[1m[31m[7m  [0m [91m                                                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/scroll-dispatcher-adapter.d.ts[0m:[93m2[0m:[93m49[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkScrollable, ScrollDispatcher } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/viewport-ruler-adapter.d.ts[0m:[93m2[0m:[93m31[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { ViewportRuler } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/a11y.module.d.ts[0m:[93m2[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusMonitor } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/[39m[22m[1m[31m@nebular/theme/components/cdk/a11y/descendant-key-manager.d.ts[0m:[93m1[0m:[93m59[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { ActiveDescendantKeyManager, Highlightable } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                          ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/focus-key-manager.d.ts[0m:[93m2[0m:[93m50[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusableOption, FocusKeyManager } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                 ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/focus-trap.d.ts[0m:[93m2[0m:[93m67[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusTrap, FocusTrapFactory, InteractivityChecker } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                                  ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/bidi/bidi-service.d.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/bidi' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { Directionality } from '@angular/cdk/bidi';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/bidi/bidi.module.d.ts[0m:[93m1[0m:[93m28[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/bidi' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { BidiModule } from '@angular/cdk/bidi';[39m[22m
+[1m[31m[7m [0m [91m                           ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[39m[22m[1m[31m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/collections/collection-viewer.d.ts[0m:[93m1[0m:[93m45[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { CollectionViewer, ListRange } from '@angular/cdk/collections';[39m[22m
+[1m[31m[7m [0m [91m                                            ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/dynamic/dynamic-overlay.d.ts[0m:[93m31[0m:[93m47[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m31[0m     protected overlayDestroy$: Subject<import("@angular/cdk/overlay").OverlayRef>;[39m[22m
+[1m[31m[7m  [0m [91m                                              ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m2[0m:[93m101[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/portal' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkPortal, CdkPortalOutlet, ComponentPortal, Portal, PortalInjector, TemplatePortal } from '@angular/cdk/portal';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                    ~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m3[0m:[93m253[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { ComponentType, ConnectedOverlayPositionChange, ConnectedPosition, ConnectionPositionPair, FlexibleConnectedPositionStrategy, Overlay, OverlayConfig, OverlayContainer, OverlayPositionBuilder, OverlayRef, PositionStrategy, ScrollStrategy } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                                 [39m[22m[1m[31m                                                                                                                                                                                           ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m6[0m:[93m21[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m6[0m import * as i1 from "@angular/cdk/overlay";[39m[22m
+[1m[31m[7m [0m [91m                    ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m7[0m:[93m21[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/portal' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m7[0m import * as i2 from "@angular/cdk/portal";[39m[22m
+[1m[31m[7m [0m [91m                    ~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/overlay-position.d.ts[0m:[93m2[0m:[93m40[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { GlobalPositionStrategy } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/platform/platform-service.d.ts[0m:[93m1[0m:[93m26[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/platform' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { Platform } from '@angular/cdk/platform';[39m[22m
+[1m[31m[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/cell.d.ts[0m:[93m2[0m:[93m117[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkCell, CdkCellDef, Cd[39m[22m[1m[31mkColumnDef, CdkFooterCell, CdkFooterCellDef, CdkHeaderCell, CdkHeaderCellDef } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                    ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/data-source.d.ts[0m:[93m1[0m:[93m28[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { DataSource } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                           ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/row.d.ts[0m:[93m1[0m:[93m178[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { CdkFooterRow, CdkFooterRowDef, CdkHeaderRow, CdkHeaderRowDef, CdkRow, CdkRowDef, CdkCellOutlet, DataRowOutlet, HeaderRowOutlet, FooterRowOutlet, NoDataRowOutlet } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                                                                                 ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m2[0m:[93m118[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { _CoalescedStyleScheduler, CdkTable, CdkTableModule, RenderRow, RowContext, StickyPositioningListener } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                     ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m3[0m:[93m31[0m - [91merror[0m[90m TS2[39m[22m[1m[31m307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { _ViewRepeater } from '@angular/cdk/collections';[39m[22m
+[1m[31m[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m12[0m:[93m127[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m export declare const NB_VIEW_REPEATER_STRATEGY: import("@angular/core").InjectionToken<_ViewRepeater<unknown, unknown, import("@angular/cdk/collections")._ViewRepeaterItemContext<unknown>>>;[39m[22m
+[1m[31m[7m  [0m [91m                                                                                                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/select-with-autocomplete/select-with-autocomplete.component.d.ts[0m:[93m4[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m4[0m import { ListKeyManager } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
 [36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[1A[2K[1G[32m✔[39m Browser application bundle generation complete.
 [37m[39m
-[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mvendor.js[39m[37m          [2m | [22mvendor [2m | [22m [96m4.52 MB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m [96m6.51 kB[39m[37m[2m | [22m[0m[39m
 [37m[0m[0m[39m
-[37m[0mBuild at: [1m[37m2024-01-27T20:25:59.529Z[39m[37m[22m - Hash: [1m[37m6973d4be89e45214[39m[37m[22m - Time: [1m[37m268[39m[37m[22mms[0m[39m
+[37m[0m3 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-27T22:17:48.313Z[39m[37m[22m - Hash: [1m[37m12bb59ac75f8e38d[39m[37m[22m - Time: [1m[37m1549[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/a11y.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\a11y.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/bidi.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\bidi.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/coercion.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\coercion.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/collections.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\collections.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/keycodes.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\keycodes.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/overlay.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\overlay.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/platform.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, [39m[22m[1m[31mopen 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\platform.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/portal.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\portal.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/table.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\table.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/block-scroll-strategy-adapter.d.ts[0m:[93m2[0m:[93m78[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { BlockScrollStrategy, ScrollDispatcher, ScrollStrategyOptions } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                                             ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/block-scroll-strategy-adapter.d.ts[0m:[93m29[0m:[93m70[0m - [91merror[0m[90m TS2344: [0mType '"noop" | "close" | "block" | "reposition"' does not satisfy the constraint '"block"'.[39m[22m
+[1m[31m  Type '"noop"' is not assignable to type '"block"'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m29[0m export type NbScrollStrategies = keyof Pick<NbScrollStrategyOptions, 'noop' | 'close' | 'block' | 'reposition'>;[39m[22m
+[1m[31m[7m  [0m [91m                                                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/scroll-dispatcher-adapter.d.ts[0m:[93m2[0m:[93m49[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding typ[39m[22m[1m[31me declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkScrollable, ScrollDispatcher } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/viewport-ruler-adapter.d.ts[0m:[93m2[0m:[93m31[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { ViewportRuler } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/a11y.module.d.ts[0m:[93m2[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusMonitor } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/descendant-key-manager.d.ts[0m:[93m1[0m:[93m59[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { ActiveDescendantKeyManager, Highlightable } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                          ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/focus-key-manager.d.ts[0m:[93m2[0m:[93m50[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusableOption, FocusKeyManager } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                 ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/focus-trap.d.ts[0m:[93m2[0m:[93m67[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/c[39m[22m[1m[31mdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusTrap, FocusTrapFactory, InteractivityChecker } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                                  ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/bidi/bidi-service.d.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/bidi' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { Directionality } from '@angular/cdk/bidi';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/bidi/bidi.module.d.ts[0m:[93m1[0m:[93m28[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/bidi' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { BidiModule } from '@angular/cdk/bidi';[39m[22m
+[1m[31m[7m [0m [91m                           ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/collections/collection-viewer.d.ts[0m:[93m1[0m:[93m45[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { CollectionViewer, ListRange } from '@angular/cdk/collections';[39m[22m
+[1m[31m[7m [0m [91m                                            ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/dynamic/dynamic-overlay.d.ts[0m:[93m31[0m:[93m47[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m31[0m     protected overlayDestroy$: Subject<import("@angular/cdk/overlay").OverlayRef>;[39m[22m
+[1m[31m[7m  [0m [91m                                              ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m2[0m:[93m101[0m -[39m[22m[1m[31m [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/portal' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkPortal, CdkPortalOutlet, ComponentPortal, Portal, PortalInjector, TemplatePortal } from '@angular/cdk/portal';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                    ~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m3[0m:[93m253[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { ComponentType, ConnectedOverlayPositionChange, ConnectedPosition, ConnectionPositionPair, FlexibleConnectedPositionStrategy, Overlay, OverlayConfig, OverlayContainer, OverlayPositionBuilder, OverlayRef, PositionStrategy, ScrollStrategy } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                                                                                                                                                            ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m6[0m:[93m21[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m6[0m import * as i1 from "@angular/cdk/overlay";[39m[22m
+[1m[31m[7m [0m [91m                    ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m7[0m:[93m21[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/portal' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m7[0m import * as i2 from "@angular/cdk/portal";[39m[22m
+[1m[31m[7m [0m [91m                    ~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/compo[39m[22m[1m[31mnents/cdk/overlay/overlay-position.d.ts[0m:[93m2[0m:[93m40[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { GlobalPositionStrategy } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/platform/platform-service.d.ts[0m:[93m1[0m:[93m26[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/platform' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { Platform } from '@angular/cdk/platform';[39m[22m
+[1m[31m[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/cell.d.ts[0m:[93m2[0m:[93m117[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkCell, CdkCellDef, CdkColumnDef, CdkFooterCell, CdkFooterCellDef, CdkHeaderCell, CdkHeaderCellDef } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                    ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/data-source.d.ts[0m:[93m1[0m:[93m28[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { DataSource } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                           ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/row.d.ts[0m:[93m1[0m:[93m178[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { CdkFooterRow, CdkFooterRowDef, CdkHeaderRow, CdkHeaderRowDef, CdkRow, CdkRowDef, CdkCellOutlet, DataRowOutlet[39m[22m[1m[31m, HeaderRowOutlet, FooterRowOutlet, NoDataRowOutlet } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                                                                                 ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m2[0m:[93m118[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { _CoalescedStyleScheduler, CdkTable, CdkTableModule, RenderRow, RowContext, StickyPositioningListener } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                     ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m3[0m:[93m31[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { _ViewRepeater } from '@angular/cdk/collections';[39m[22m
+[1m[31m[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m12[0m:[93m127[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m export declare const NB_VIEW_REPEATER_STRATEGY: import("@angular/core").InjectionToken<_ViewRepeater<unknown, unknown, import("@angular/cdk/collections")._ViewRepeaterItemContext<unknown>>>;[39m[22m
+[1m[31m[7m  [0m [91m                                                                                                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/select-with-autocomplete/select-with-autocomplete.comp[39m[22m[1m[31monent.d.ts[0m:[93m4[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m4[0m import { ListKeyManager } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
 [37m[39m
-[37m[92m√[39m[37m Compiled successfully.[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[1A[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mmain.js[39m[37m            [2m | [22mmain   [2m | [22m[96m10.53 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m [96m6.51 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m3 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-27T22:19:28.844Z[39m[37m[22m - Hash: [1m[37m484767850348e786[39m[37m[22m - Time: [1m[37m883[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/a11y.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\a11y.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/bidi.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\bidi.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/coercion.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\coercion.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/collections.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\collections.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/keycodes.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\keycodes.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/overlay.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\overlay.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/platform.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, [39m[22m[1m[31mopen 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\platform.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/portal.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\portal.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m../node_modules/@angular/cdk/fesm2022/table.mjs[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/source-map-loader/dist/cjs.js):[39m[22m
+[1m[31mError: ENOENT: no such file or directory, open 'C:\Users\jaspr\.vscode\McHacks11\node_modules\@angular\cdk\fesm2022\table.mjs'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/block-scroll-strategy-adapter.d.ts[0m:[93m2[0m:[93m78[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { BlockScrollStrategy, ScrollDispatcher, ScrollStrategyOptions } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                                             ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/block-scroll-strategy-adapter.d.ts[0m:[93m29[0m:[93m70[0m - [91merror[0m[90m TS2344: [0mType '"noop" | "close" | "block" | "reposition"' does not satisfy the constraint '"block"'.[39m[22m
+[1m[31m  Type '"noop"' is not assignable to type '"block"'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m29[0m export type NbScrollStrategies = keyof Pick<NbScrollStrategyOptions, 'noop' | 'close' | 'block' | 'reposition'>;[39m[22m
+[1m[31m[7m  [0m [91m                                                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/scroll-dispatcher-adapter.d.ts[0m:[93m2[0m:[93m49[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding typ[39m[22m[1m[31me declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkScrollable, ScrollDispatcher } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/adapter/viewport-ruler-adapter.d.ts[0m:[93m2[0m:[93m31[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { ViewportRuler } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/a11y.module.d.ts[0m:[93m2[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusMonitor } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/descendant-key-manager.d.ts[0m:[93m1[0m:[93m59[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { ActiveDescendantKeyManager, Highlightable } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                          ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/focus-key-manager.d.ts[0m:[93m2[0m:[93m50[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusableOption, FocusKeyManager } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                 ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/a11y/focus-trap.d.ts[0m:[93m2[0m:[93m67[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/c[39m[22m[1m[31mdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { FocusTrap, FocusTrapFactory, InteractivityChecker } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                                                                  ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/bidi/bidi-service.d.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/bidi' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { Directionality } from '@angular/cdk/bidi';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/bidi/bidi.module.d.ts[0m:[93m1[0m:[93m28[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/bidi' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { BidiModule } from '@angular/cdk/bidi';[39m[22m
+[1m[31m[7m [0m [91m                           ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/collections/collection-viewer.d.ts[0m:[93m1[0m:[93m45[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { CollectionViewer, ListRange } from '@angular/cdk/collections';[39m[22m
+[1m[31m[7m [0m [91m                                            ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/dynamic/dynamic-overlay.d.ts[0m:[93m31[0m:[93m47[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m31[0m     protected overlayDestroy$: Subject<import("@angular/cdk/overlay").OverlayRef>;[39m[22m
+[1m[31m[7m  [0m [91m                                              ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m2[0m:[93m101[0m -[39m[22m[1m[31m [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/portal' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkPortal, CdkPortalOutlet, ComponentPortal, Portal, PortalInjector, TemplatePortal } from '@angular/cdk/portal';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                    ~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m3[0m:[93m253[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { ComponentType, ConnectedOverlayPositionChange, ConnectedPosition, ConnectionPositionPair, FlexibleConnectedPositionStrategy, Overlay, OverlayConfig, OverlayContainer, OverlayPositionBuilder, OverlayRef, PositionStrategy, ScrollStrategy } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                                                                                                                                                            ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m6[0m:[93m21[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m6[0m import * as i1 from "@angular/cdk/overlay";[39m[22m
+[1m[31m[7m [0m [91m                    ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/overlay/mapping.d.ts[0m:[93m7[0m:[93m21[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/portal' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m7[0m import * as i2 from "@angular/cdk/portal";[39m[22m
+[1m[31m[7m [0m [91m                    ~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/compo[39m[22m[1m[31mnents/cdk/overlay/overlay-position.d.ts[0m:[93m2[0m:[93m40[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/overlay' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { GlobalPositionStrategy } from '@angular/cdk/overlay';[39m[22m
+[1m[31m[7m [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/platform/platform-service.d.ts[0m:[93m1[0m:[93m26[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/platform' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { Platform } from '@angular/cdk/platform';[39m[22m
+[1m[31m[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/cell.d.ts[0m:[93m2[0m:[93m117[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { CdkCell, CdkCellDef, CdkColumnDef, CdkFooterCell, CdkFooterCellDef, CdkHeaderCell, CdkHeaderCellDef } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                    ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/data-source.d.ts[0m:[93m1[0m:[93m28[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { DataSource } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                           ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/row.d.ts[0m:[93m1[0m:[93m178[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { CdkFooterRow, CdkFooterRowDef, CdkHeaderRow, CdkHeaderRowDef, CdkRow, CdkRowDef, CdkCellOutlet, DataRowOutlet[39m[22m[1m[31m, HeaderRowOutlet, FooterRowOutlet, NoDataRowOutlet } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                                                                                 ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m2[0m:[93m118[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/table' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { _CoalescedStyleScheduler, CdkTable, CdkTableModule, RenderRow, RowContext, StickyPositioningListener } from '@angular/cdk/table';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                     ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m3[0m:[93m31[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { _ViewRepeater } from '@angular/cdk/collections';[39m[22m
+[1m[31m[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/cdk/table/table.module.d.ts[0m:[93m12[0m:[93m127[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/collections' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m export declare const NB_VIEW_REPEATER_STRATEGY: import("@angular/core").InjectionToken<_ViewRepeater<unknown, unknown, import("@angular/cdk/collections")._ViewRepeaterItemContext<unknown>>>;[39m[22m
+[1m[31m[7m  [0m [91m                                                                                                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@nebular/theme/components/select-with-autocomplete/select-with-autocomplete.comp[39m[22m[1m[31monent.d.ts[0m:[93m4[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module '@angular/cdk/a11y' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m4[0m import { ListKeyManager } from '@angular/cdk/a11y';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
