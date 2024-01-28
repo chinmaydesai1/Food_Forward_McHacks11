@@ -2325,3 +2325,4 @@ Error: InvalidSymbol in C:\Users\jaspr\.vscode\McHacks11\FrontEnd\.nx\cache\file
 [NX Daemon Server] - 2024-01-28T07:40:23.084Z - [REQUEST]: src/app/app.component.html,src/app/business-or-student/business-or-student.service.ts
 [NX Daemon Server] - 2024-01-28T07:40:23.084Z - [REQUEST]: 
 [NX Daemon Server] - 2024-01-28T07:40:23.122Z - Time taken for 'hash changed files from watcher' 0.39959999918937683ms
+[NX Daemon Server] - 2024-01-28T07:41:20.056Z - [WATCHER]: Processing file changes in outputs
