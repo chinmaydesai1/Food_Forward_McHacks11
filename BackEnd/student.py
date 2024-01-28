@@ -42,3 +42,43 @@ def getUserInfo():
             return jsonify({"status": False, "error": "Invalid password"}), 401
     else:
         return jsonify({"status": False, "error": "No student found with that email"}), 404
+
+@studentBlueprint.route('/updateStudentFood', methods=["POST"])
+def updateStudentFood():
+    data = request.json
+
+    student_email = data.get('email')
+    university = data.get('university')
+    meals = data.get('meals', {})  # Dictionary of meal items and their quantities
+    snacks = data.get('snacks', {})  # Dictionary of snack items and their quantities
+
+    try:
+        student = db.db.Student.find_one({"email": student_email})
+        if not student:
+            return jsonify({"status": False, "error": "Student not found"}), 404
+
+        #update student food data
+        db.db.Student.update_one({"email": student_email}, {"$set": {"meal": {"meal": True}, "snack": len(snacks)}})
+
+        #update university food data
+        food_db = getFoodCollection(university)
+        if not food_db:
+            return jsonify({"status": False, "error": "Invalid university name"}), 400
+
+        for meal, quantity in meals.items():
+            updateFoodQuantity(food_db, meal, -quantity)
+        for snack, quantity in snacks.items():
+            updateFoodQuantity(food_db, snack, -quantity)
+
+        return jsonify({"status": True, "message": "Student and food data updated successfully"}), 200
+
+    except Exception as e:
+        return jsonify({"status": False, "error": str(e)}), 500
+
+def updateFoodQuantity(food_db, food_item, quantity_change):
+    existing_item = food_db.find_one({"item": food_item})
+    if existing_item:
+        new_quantity = max(existing_item['quantity'] + quantity_change, 0) #to combat negative quantities
+        food_db.update_one({"item": food_item}, {"$set": {"quantity": new_quantity}})
+    else:
+        pass
