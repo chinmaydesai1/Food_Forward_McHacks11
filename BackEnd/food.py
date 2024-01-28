@@ -7,8 +7,8 @@ foodBlueprint = Blueprint('food', __name__)
 @foodBlueprint.route('/donateData/logIn', methods = ["POST", "GET"])
 def addFood(): 
     university = request.form.get('university')
-    meals = json.loads(request.form.get('meals', '[]'))
-    snacks = json.loads(request.form.get('snacks', '[]'))
+    meals = json.loads(request.form.get('meals', '{}'))
+    snacks = json.loads(request.form.get('snacks', '{}'))
 
     food_db = None
     if university == 'Concordia University':
@@ -66,4 +66,3 @@ def getFoodCollection(university):
         return db.db.PolyFood
     else:
         return None
-
