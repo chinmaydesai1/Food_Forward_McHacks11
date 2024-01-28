@@ -8,3 +8,5 @@ McHacks 11 Project
 ## Scripts
 
 ## Deployment
+
+## License
