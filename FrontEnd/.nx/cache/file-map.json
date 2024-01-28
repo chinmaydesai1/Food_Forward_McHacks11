@@ -38,47 +38,143 @@
   "pathMappings": {},
   "nxJsonPlugins": [],
   "fileMap": {
-    "nonProjectFiles": [],
+    "nonProjectFiles": [
+      {
+        "file": "src/app/business-or-data/business-or-data.service.ts",
+        "hash": "16520110421770311333"
+      },
+      {
+        "file": "src/app/donate/donate.service.spec.ts",
+        "hash": "14411948431860929254"
+      },
+      {
+        "file": "src/app/sign-up/Sign-Up.component.html",
+        "hash": "12932463468544144538"
+      },
+      {
+        "file": "src/app/meal-snack-input/meal-snack-input.component.scss",
+        "hash": "4055606894390288348"
+      },
+      {
+        "file": "src/app/sign-up/Sign-Up.component.spec.ts",
+        "hash": "365422502887453196"
+      },
+      {
+        "file": "src/app/business-or-data/business-or-data.service.spec.ts",
+        "hash": "3839797297414220134"
+      },
+      {
+        "file": "src/app/meal-snack-input/meal-snack-input.component.spec.ts",
+        "hash": "1172720709576076689"
+      },
+      {
+        "file": "src/app/sign-up/Sign-Up.component.ts",
+        "hash": "467389577966453805"
+      },
+      {
+        "file": "src/app/app.component.ts",
+        "hash": "4441576869690237102"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "12681081656146497259"
+      },
+      {
+        "file": "src/app/meal-input/meal-input.component.spec.ts",
+        "hash": "12465322794420929780"
+      },
+      {
+        "file": "src/app/app.module.ts",
+        "hash": "5081512078851230599"
+      },
+      {
+        "file": "src/app/meal-snack-input/meal-snack-input.component.html",
+        "hash": "7122313870089662592"
+      },
+      {
+        "file": "src/app/meal-input/meal-input.component.scss",
+        "hash": "4055606894390288348"
+      },
+      {
+        "file": "src/app/meal-snack-input/meal-snack-input.component.ts",
+        "hash": "17470130691858831643"
+      },
+      {
+        "file": "src/app/form-data/form-data.service.spec.ts",
+        "hash": "3108410165615739033"
+      },
+      {
+        "file": "src/app/meal-input/meal-input.component.html",
+        "hash": "13194829780322530398"
+      },
+      {
+        "file": "src/app/business-or-student/business-or-student.service.ts",
+        "hash": "16676122789813791297"
+      },
+      {
+        "file": "src/app/meal-input/meal-input.component.ts",
+        "hash": "4294069913488272542"
+      },
+      {
+        "file": "src/app/sign-up/Sign-Up.component.scss",
+        "hash": "4055606894390288348"
+      },
+      {
+        "file": "src/app/donate/donate.service.ts",
+        "hash": "14462528570452660180"
+      },
+      {
+        "file": "src/app/donate-service/donate.service.ts",
+        "hash": "7512046816586770048"
+      },
+      {
+        "file": "src/app/business-or-student/business-or-student.service.spec.ts",
+        "hash": "2227927686115163751"
+      },
+      {
+        "file": "src/app/form-data/form-data.service.ts",
+        "hash": "4794568842952529446"
+      }
+    ],
     "projectFileMap": {
       "FrontEnd": [
         {
           "file": ".editorconfig",
-          "hash": "17241496168097493888"
+          "hash": "6686520031028425313"
         },
         {
           "file": ".gitignore",
-          "hash": "4689145951703824387"
+          "hash": "13044518069027839699"
         },
         {
           "file": ".vscode/extensions.json",
-          "hash": "6740797025222968025"
+          "hash": "12343942279124280405"
         },
         {
           "file": ".vscode/launch.json",
-          "hash": "17406702432687230417"
+          "hash": "17038929134016848735"
         },
         {
           "file": ".vscode/tasks.json",
-          "hash": "10093397977228577162"
+          "hash": "5336636969995539451"
         },
         {
           "file": "README.md",
-          "hash": "17568147228569099430"
+          "hash": "9674884162398583583"
         },
         {
           "file": "nx.json",
-          "hash": "15329929871676255151"
+          "hash": "2846808291929282824"
         },
         {
           "file": "package-lock.json",
-          "hash": "2596017281577104500"
+          "hash": "5519744030604352834"
         },
         {
           "file": "package.json",
-          "hash": "7202186731692768322",
+          "hash": "4010584354092675491",
           "deps": [
             "npm:@angular/animations",
-            "npm:@angular/cdk",
             "npm:@angular/common",
             "npm:@angular/compiler",
             "npm:@angular/core",
@@ -113,11 +209,11 @@
         },
         {
           "file": "project.json",
-          "hash": "16691103821060457508"
+          "hash": "15297980307650170974"
         },
         {
           "file": "src/app/app-routing.module.ts",
-          "hash": "15638978050551223935",
+          "hash": "6250625392482207240",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/router"
@@ -125,11 +221,7 @@
         },
         {
           "file": "src/app/app.component.html",
-<<<<<<< HEAD
-          "hash": "15977095600974839702"
-=======
           "hash": "17651112957305708324"
->>>>>>> 71221ac6bef03ad385d518f849c9c0220f6140f2
         },
         {
           "file": "src/app/app.component.scss",
@@ -137,7 +229,7 @@
         },
         {
           "file": "src/app/app.component.spec.ts",
-          "hash": "2278128444643707878",
+          "hash": "3223819480989612926",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/router"
@@ -145,11 +237,7 @@
         },
         {
           "file": "src/app/app.component.ts",
-<<<<<<< HEAD
-          "hash": "661133520008724390",
-=======
           "hash": "12990148108951237654",
->>>>>>> 71221ac6bef03ad385d518f849c9c0220f6140f2
           "deps": [
             "npm:@angular/core",
             "npm:@nebular/theme"
@@ -157,11 +245,7 @@
         },
         {
           "file": "src/app/app.module.ts",
-<<<<<<< HEAD
-          "hash": "7042628611948641030",
-=======
           "hash": "4478975030139131628",
->>>>>>> 71221ac6bef03ad385d518f849c9c0220f6140f2
           "deps": [
             "npm:@angular/core",
             "npm:@angular/platform-browser",
@@ -181,30 +265,30 @@
         },
         {
           "file": "src/index.html",
-          "hash": "7071023234128838595"
+          "hash": "11412929333146849621"
         },
         {
           "file": "src/main.ts",
-          "hash": "9374417435436826166",
+          "hash": "12246588107753938993",
           "deps": [
             "npm:@angular/platform-browser-dynamic"
           ]
         },
         {
           "file": "src/styles.scss",
-          "hash": "2917954890128038984"
+          "hash": "5195668842064076916"
         },
         {
           "file": "tsconfig.app.json",
-          "hash": "13119632651406065538"
+          "hash": "17337579397915052279"
         },
         {
           "file": "tsconfig.json",
-          "hash": "1426335498558518182"
+          "hash": "1047940026627514556"
         },
         {
           "file": "tsconfig.spec.json",
-          "hash": "5122839733245053999"
+          "hash": "15575553540147145788"
         }
       ]
     }

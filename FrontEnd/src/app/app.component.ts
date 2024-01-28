@@ -20,9 +20,9 @@ export class AppComponent {
         },
         {
             title: 'Donate',
-            icon: 'arrow-downward-outline',
+            icon: 'corner-down-left-outline',
             link: 'donate',
-            hidden: true,
+            hidden: false,
 
         },
     ]

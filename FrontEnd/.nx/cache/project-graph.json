@@ -922,48 +922,6 @@
         "hash": "sha512-MD0ElviEfAJY8qMOd6/jjSSvtqER2RDAi0lxe6EtUacC1DHCYkaPrKW4vLqY+tmZBg1yf+6n+uS77pXcHHcA3w=="
       }
     },
-    "npm:@angular/cdk": {
-      "type": "npm",
-      "name": "npm:@angular/cdk",
-      "data": {
-<<<<<<< HEAD
-        "version": "16.2.13",
-        "packageName": "@angular/cdk",
-        "hash": "sha512-8kn2X2yesvgfIbCUNoS9EDjooIx9LwEglYBbD89Y/do8EeN/CC3Tn02gqSrEfgMhYBLBJmHXbfOhbDDvcvOCeg=="
-=======
-        "version": "16.0.0",
-        "packageName": "@angular/cdk",
-        "hash": "sha512-3hiNRB5kBOYv+MJRlpLX++KzY96mTivE7BXM/pNoR4Hiq7aBnoCtp0zbTc9J7gPn8POX6t/4WfAogslbkvQXSg=="
->>>>>>> 71221ac6bef03ad385d518f849c9c0220f6140f2
-      }
-    },
-    "npm:parse5@7.1.2": {
-      "type": "npm",
-      "name": "npm:parse5@7.1.2",
-      "data": {
-        "version": "7.1.2",
-        "packageName": "parse5",
-        "hash": "sha512-Czj1WaSVpaoj0wbhMzLmWD69anp2WH7FXMB9n1Sy8/ZFF9jolSQVMu1Ij5WIyGmcBmhk7EOndpO4mIpihVqAXw=="
-      }
-    },
-    "npm:parse5@4.0.0": {
-      "type": "npm",
-      "name": "npm:parse5@4.0.0",
-      "data": {
-        "version": "4.0.0",
-        "packageName": "parse5",
-        "hash": "sha512-VrZ7eOd3T1Fk4XWNXMgiGBK/z0MG48BWG2uQNU4I72fkQuKUTZpl+u9k+CxEG0twMVzSmXEEz12z5Fnw1jIQFA=="
-      }
-    },
-    "npm:parse5": {
-      "type": "npm",
-      "name": "npm:parse5",
-      "data": {
-        "version": "6.0.1",
-        "packageName": "parse5",
-        "hash": "sha512-Ofn/CTFzRGTTxwpNEs9PP93gXShHcTq255nzRYSKe8AkVpZY7e1fpmTfOyoIvjP5HG7Z2ZM7VS9PPhQGW2pOpw=="
-      }
-    },
     "npm:@angular/cli": {
       "type": "npm",
       "name": "npm:@angular/cli",
@@ -3878,6 +3836,33 @@
         "version": "2.7.6",
         "packageName": "mini-css-extract-plugin",
         "hash": "sha512-Qk7HcgaPkGG6eD77mLvZS1nmxlao3j+9PkrT9Uc7HAE1id3F41+DdBRYRYkbyfNRGzm8/YWtzhw7nVPmwhqTQw=="
+      }
+    },
+    "npm:parse5@4.0.0": {
+      "type": "npm",
+      "name": "npm:parse5@4.0.0",
+      "data": {
+        "version": "4.0.0",
+        "packageName": "parse5",
+        "hash": "sha512-VrZ7eOd3T1Fk4XWNXMgiGBK/z0MG48BWG2uQNU4I72fkQuKUTZpl+u9k+CxEG0twMVzSmXEEz12z5Fnw1jIQFA=="
+      }
+    },
+    "npm:parse5": {
+      "type": "npm",
+      "name": "npm:parse5",
+      "data": {
+        "version": "6.0.1",
+        "packageName": "parse5",
+        "hash": "sha512-Ofn/CTFzRGTTxwpNEs9PP93gXShHcTq255nzRYSKe8AkVpZY7e1fpmTfOyoIvjP5HG7Z2ZM7VS9PPhQGW2pOpw=="
+      }
+    },
+    "npm:parse5@7.1.2": {
+      "type": "npm",
+      "name": "npm:parse5@7.1.2",
+      "data": {
+        "version": "7.1.2",
+        "packageName": "parse5",
+        "hash": "sha512-Czj1WaSVpaoj0wbhMzLmWD69anp2WH7FXMB9n1Sy8/ZFF9jolSQVMu1Ij5WIyGmcBmhk7EOndpO4mIpihVqAXw=="
       }
     },
     "npm:postcss-loader@6.2.1": {
@@ -11711,11 +11696,6 @@
       },
       {
         "source": "FrontEnd",
-        "target": "npm:@angular/cdk",
-        "type": "static"
-      },
-      {
-        "source": "FrontEnd",
         "target": "npm:@angular/common",
         "type": "static"
       },
@@ -12477,40 +12457,6 @@
       {
         "source": "npm:@angular/animations",
         "target": "npm:tslib",
-        "type": "static"
-      }
-    ],
-    "npm:@angular/cdk": [
-      {
-        "source": "npm:@angular/cdk",
-        "target": "npm:@angular/common",
-        "type": "static"
-      },
-      {
-        "source": "npm:@angular/cdk",
-        "target": "npm:@angular/core",
-        "type": "static"
-      },
-      {
-        "source": "npm:@angular/cdk",
-        "target": "npm:rxjs",
-        "type": "static"
-      },
-      {
-        "source": "npm:@angular/cdk",
-        "target": "npm:tslib",
-        "type": "static"
-      },
-      {
-        "source": "npm:@angular/cdk",
-        "target": "npm:parse5@7.1.2",
-        "type": "static"
-      }
-    ],
-    "npm:parse5@7.1.2": [
-      {
-        "source": "npm:parse5@7.1.2",
-        "target": "npm:entities",
         "type": "static"
       }
     ],
@@ -16040,11 +15986,6 @@
       {
         "source": "npm:@nebular/theme",
         "target": "npm:@angular/animations",
-        "type": "static"
-      },
-      {
-        "source": "npm:@nebular/theme",
-        "target": "npm:@angular/cdk",
         "type": "static"
       },
       {
@@ -24822,6 +24763,13 @@
       {
         "source": "npm:parse5-html-rewriting-stream",
         "target": "npm:parse5-sax-parser",
+        "type": "static"
+      }
+    ],
+    "npm:parse5@7.1.2": [
+      {
+        "source": "npm:parse5@7.1.2",
+        "target": "npm:entities",
         "type": "static"
       }
     ],

@@ -1,0 +1,200 @@
+<div [style.margin]="'auto'">
+  <nb-card>
+    <nb-card-body>
+      <form [formGroup]="form" (ngSubmit)="onSubmit()">
+        <nb-form-field>
+          <label>Please Select a University</label>
+          <nb-icon
+            *ngIf="
+              form.controls.university.touched &&
+              form.controls.university.invalid
+            "
+            nbPrefix
+            status="danger"
+            icon="alert-circle-outline"
+            [style.margin-top]="'50%'"
+          ></nb-icon>
+          <nb-select
+            placeholder="Select School"
+            formControlName="university"
+            filled
+            status="success"
+          >
+            <nb-option value="Concordia University"
+              >Concordia University</nb-option
+            >
+            <nb-option value="McGill University">McGill University</nb-option>
+            <nb-option value="Université de Montréal"
+              >Université de Montréal</nb-option
+            >
+            <nb-option value="Polytechnique Montréal"
+              >Polytechnique Montréal</nb-option
+            >
+          </nb-select>
+        </nb-form-field>
+        <div [style.margin]="'auto'">
+          <nb-alert
+            *ngIf="form.controls.university.touched &&
+          form.controls.university.invalid && form.controls.university.errors?.['required']"
+            >This field is required</nb-alert
+          >
+        </div>
+        <br />
+        <nb-list>
+          <nb-list-item
+            [style.position]="'relative'"
+            class="list-item-divider-width"
+            *ngFor="let meal of meals.controls; let i = index"
+          >
+            <label>Meal</label>
+            <div [formGroup]="meal" [style.width]="'100%'">
+              <nb-form-field [style.float]="'left'" [style.margin-left]="'3em'">
+                <input
+                  placeholder="Meal Name"
+                  formControlName="mealName"
+                  nbInput
+                  status="warning"
+                />
+                <nb-icon
+                  *ngIf="
+                    meals.controls.at(i)?.touched &&
+                    meals.controls.at(i)?.invalid
+                  "
+                  nbSuffix
+                  icon="alert-circle-outline"
+                  status="danger"
+                ></nb-icon>
+              </nb-form-field>
+              <nb-alert
+                *ngIf="meals.controls.at(i)?.touched && meals.controls.at(i)?.invalid && meals.controls.at(i)?.errors?.['required']"
+                status="warning"
+                >Field is required</nb-alert
+              >
+              <nb-form-field [style.float]="'left'" [style.margin-left]="'3em'">
+                <input
+                  placeholder="Number of Meals"
+                  formControlName="mealNum"
+                  nbInput
+                  status="warning"
+                />
+                <nb-icon
+                  *ngIf="
+                    meals.controls.at(i)?.touched &&
+                    meals.controls.at(i)?.invalid
+                  "
+                  nbSuffix
+                  icon="alert-circle-outline"
+                  status="danger"
+                ></nb-icon>
+              </nb-form-field>
+              <nb-alert
+                *ngIf="meals.controls.at(i)?.touched && meals.controls.at(i)?.invalid && meals.controls.at(i)?.errors?.['required']"
+                status="warning"
+                >Field is required</nb-alert
+              >
+              <button
+                type="button"
+                nbButton
+                status="danger"
+                (click)="removeMeal(i)"
+                [disabled]="disableMinusForMeals"
+                [style.margin-left]="'40%'"
+              >
+                <nb-icon icon="minus-circle-outline"></nb-icon>
+              </button>
+              <button
+                type="button"
+                nbButton
+                status="success"
+                (click)="addMeal()"
+                [style.margin-left]="'0.5em'"
+              >
+                <nb-icon icon="plus-circle-outline"></nb-icon>
+              </button>
+            </div>
+          </nb-list-item>
+          <nb-list-item
+            [style.position]="'relative'"
+            class="list-item-divider-width"
+            *ngFor="let snack of snacks.controls; let i = index"
+          >
+            <label>Snack</label>
+            <div [formGroup]="snack" [style.width]="'100%'">
+              <nb-form-field [style.float]="'left'" [style.margin-left]="'3em'">
+                <input
+                  placeholder="Snack Name"
+                  formControlName="snackName"
+                  nbInput
+                  status="warning"
+                />
+                <nb-icon
+                  *ngIf="
+                    snacks.controls.at(i)?.touched &&
+                    snacks.controls.at(i)?.invalid
+                  "
+                  nbSuffix
+                  icon="alert-circle-outline"
+                  status="danger"
+                ></nb-icon>
+              </nb-form-field>
+              <nb-alert
+                *ngIf="snacks.controls.at(i)?.touched && snacks.controls.at(i)?.invalid && snacks.controls.at(i)?.errors?.['required']"
+                status="warning"
+                >Field is required</nb-alert
+              >
+              <nb-form-field [style.float]="'left'" [style.margin-left]="'3em'">
+                <input
+                  placeholder="Number of Snacks"
+                  formControlName="snackNum"
+                  nbInput
+                  status="warning"
+                />
+                <nb-icon
+                  *ngIf="
+                    snacks.controls.at(i)?.touched &&
+                    snacks.controls.at(i)?.invalid
+                  "
+                  nbSuffix
+                  icon="alert-circle-outline"
+                  status="danger"
+                ></nb-icon>
+              </nb-form-field>
+              <nb-alert
+                *ngIf="snacks.controls.at(i)?.touched && snacks.controls.at(i)?.invalid && snacks.controls.at(i)?.errors?.['required']"
+                status="warning"
+                >Field is required</nb-alert
+              >
+              <button
+                type="button"
+                nbButton
+                status="danger"
+                (click)="removeSnack(i)"
+                [disabled]="disableMinusForSnacks"
+                [style.margin-left]="'40%'"
+              >
+                <nb-icon icon="minus-circle-outline"></nb-icon>
+              </button>
+              <button
+                type="button"
+                nbButton
+                status="success"
+                (click)="addSnack()"
+                [style.margin-left]="'0.5em'"
+              >
+                <nb-icon icon="plus-circle-outline"></nb-icon>
+              </button>
+            </div>
+          </nb-list-item>
+        </nb-list>
+        <button
+          type="submit"
+          nbButton
+          status="primary"
+          [disabled]="form.invalid"
+        >
+          Submit
+        </button>
+      </form>
+    </nb-card-body>
+  </nb-card>
+</div>
