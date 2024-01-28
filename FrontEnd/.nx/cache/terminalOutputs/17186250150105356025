@@ -20,3 +20,88 @@
 [37m[39m
 [37m[39m
 [37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[1A[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mmain.js[39m[37m            [2m | [22mmain   [2m | [22m[96m113.55 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m  [96m6.51 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m3 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-28T15:43:38.072Z[39m[37m[22m - Hash: [1m[37m07cc1834e7cd9617[39m[37m[22m - Time: [1m[37m3827[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/app.module.ts[0m:[93m27[0m:[93m1[0m - [91merror[0m[90m TS1185: [0mMerge conflict marker encountered.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m <<<<<<< HEAD[39m[22m
+[1m[31m[7m  [0m [91m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/app.module.ts[0m:[93m29[0m:[93m1[0m - [91merror[0m[90m TS1185: [0mMerge conflict marker encountered.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m29[0m =======[39m[22m
+[1m[31m[7m  [0m [91m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/app.module.ts[0m:[93m31[0m:[93m1[0m - [91merror[0m[90m TS1185: [0mMerge conflict marker encountered.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m31[0m >>>>>>> 08a8a1c146a7ad9cdf73815aa5699166045d6099[39m[22m
+[1m[31m[7m  [0m [91m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/app.module.ts[0m:[93m56[0m:[93m1[0m - [91merror[0m[90m TS1185: [0mMerge conflict marker encountered.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m56[0m <<<<<<< HEAD[39m[22m
+[1m[31m[7m  [0m [91m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/app.module.ts[0m:[93m58[0m:[93m1[0m - [91merror[0m[90m TS1185: [0mMerge conflict marker encountered.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m58[0m =======[39m[22m
+[1m[31m[7m  [0m [91m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/app.module.ts[0m:[93m61[0m:[93m1[0m - [91merror[0m[90m TS1185: [0mMerge conflict marker encountered.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m61[0m >>>>>>> 08a8a1c146a7ad9cdf73815aa5699166045d6099[39m[22m
+[1m[31m[7m  [0m [91m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[1A[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[1A[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mmain.js[39m[37m            [2m | [22mmain   [2m | [22m[96m113.55 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m  [96m6.51 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m3 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-28T15:45:18.279Z[39m[37m[22m - Hash: [1m[37mc846467d4f7d1794[39m[37m[22m - Time: [1m[37m1339[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[1A[2K[1G[36m⠧[39m Generating browser application bundles (phase: emitting)...[2K[1G[1A[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mmain.js[39m[37m            [2m | [22mmain   [2m | [22m[96m113.55 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m  [96m6.51 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m3 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-28T15:46:02.627Z[39m[37m[22m - Hash: [1m[37m237c0189f465150c[39m[37m[22m - Time: [1m[37m1934[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[1A[2K[1G[36m⠧[39m Generating browser application bundles (phase: emitting)...[2K[1G[1A[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-28T15:53:52.227Z[39m[37m[22m - Hash: [1m[37m237c0189f465150c[39m[37m[22m - Time: [1m[37m1694[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[1A[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[1A[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[1A[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-28T15:54:01.300Z[39m[37m[22m - Hash: [1m[37m237c0189f465150c[39m[37m[22m - Time: [1m[37m853[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m

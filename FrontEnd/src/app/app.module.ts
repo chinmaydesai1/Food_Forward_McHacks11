@@ -24,11 +24,7 @@ import { AppComponent } from './app.component';
 import { MealSnackInputComponent } from './meal-snack-input/meal-snack-input.component';
 import { SignUpComponent } from './sign-up/Sign-Up.component';
 import { LogInComponent } from './log-in/log-in.component';
-<<<<<<< HEAD
 import { ItemsComponent } from './items/items.component';
-=======
-import { HomeComponent } from './home/home.component';
->>>>>>> 08a8a1c146a7ad9cdf73815aa5699166045d6099
 @NgModule({
     declarations: [
         AppComponent
@@ -53,12 +49,7 @@ import { HomeComponent } from './home/home.component';
             { path: 'donate', component: MealSnackInputComponent },
             { path: 'signUp', component: SignUpComponent },
             { path: 'logIn', component: LogInComponent },
-<<<<<<< HEAD
             { path: "items", component: ItemsComponent }
-=======
-            { path: '', component: HomeComponent }
-            //{ path: "checkItems" }
->>>>>>> 08a8a1c146a7ad9cdf73815aa5699166045d6099
         ])
     ],
     providers: [NbSidebarService, NbMenuService, FormDataService, BusinessOrStudentService, DonateService],

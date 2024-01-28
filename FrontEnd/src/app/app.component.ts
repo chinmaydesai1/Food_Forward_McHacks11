@@ -21,7 +21,7 @@ export class AppComponent {
         {
             title: 'Check Items',
             icon: 'browser-outline',
-            link: 'checkItems',
+            link: 'items',
         },
         {
             title: 'Donate',

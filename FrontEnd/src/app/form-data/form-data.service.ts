@@ -15,7 +15,7 @@ export class FormDataService {
     }
     async postStudentFormData() {
 
-        return await this.http.post("http://127.0.0.1:5000/student/studentFormData", this._studentFormData, { responseType: "text" }).subscribe((response) => {
+        return await this.http.post("http://127.0.0.1:5000/studentFormData", this._studentFormData, { responseType: "text" }).subscribe((response) => {
             console.log(response);
             return response;
         })
