@@ -1,4 +1,7 @@
 flask,
+faker,
+sqlite3,
+pandas,
 bcrypt,
 pymongo,
 flask_cors,
