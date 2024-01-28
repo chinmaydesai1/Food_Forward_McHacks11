@@ -38,12 +38,7 @@
   "pathMappings": {},
   "nxJsonPlugins": [],
   "fileMap": {
-    "nonProjectFiles": [
-      {
-        "file": "src/app/sign-up/Sign-Up.component.html",
-        "hash": "8418210200058155020"
-      }
-    ],
+    "nonProjectFiles": [],
     "projectFileMap": {
       "FrontEnd": [
         {
@@ -234,7 +229,7 @@
         },
         {
           "file": "src/app/sign-up/Sign-Up.component.html",
-          "hash": "2164842967239257327"
+          "hash": "8418210200058155020"
         },
         {
           "file": "src/app/sign-up/Sign-Up.component.scss",
