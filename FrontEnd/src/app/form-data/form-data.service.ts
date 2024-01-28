@@ -20,6 +20,6 @@ export class FormDataService {
         this._businessFormData = businessData
     }
     async postBusinessData() {
-        return await this.http.post("http://127.0.0.1:5000/businessData", this._businessFormData, { responseType: "json" }).toPromise();
+        return await this.http.post("http://127.0.0.1:5000/businessFormData", this._businessFormData, { responseType: "json" }).toPromise();
     }
 }
