@@ -4,7 +4,7 @@ import json
 
 foodBlueprint = Blueprint('food', __name__)
 
-@foodBlueprint.route('/donateData', methods = ["POST", "GET"])
+@foodBlueprint.route('/donateData/logIn', methods = ["POST", "GET"])
 def addFood(): 
     university = request.form.get('university')
     meals = json.loads(request.form.get('meals', '[]'))
@@ -44,7 +44,7 @@ def updateFood(food_db, food_item):
 def retrieveFood():
     university = request.args.get('university')
 
-    food_db = geFoodCollection(university)
+    food_db = getFoodCollection(university)
 
     if not food_db:
         return jsonify({"status": False, "error": "Invalid university name"}), 400
