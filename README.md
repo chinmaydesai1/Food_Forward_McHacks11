@@ -12,6 +12,6 @@ McHacks 11 Project
 ## Deployment
 
 ## Collaborators
-[Contributors](https://github.com/chinmaydesai1/Food_Forward_McHacks11/graphs/contributors)
+![](https://github.com/chinmaydesai1/Food_Forward_McHacks11/graphs/contributors)
 
 ## License
