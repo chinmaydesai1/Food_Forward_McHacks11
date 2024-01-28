@@ -1,5 +1,4 @@
 from flask import Blueprint, request, jsonify
-from pymongo import MongoClient
 import bcrypt
 import db
 
