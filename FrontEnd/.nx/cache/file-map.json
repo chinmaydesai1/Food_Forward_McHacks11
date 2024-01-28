@@ -1,410 +1,343 @@
 {
-    "version": "6.0",
-    "nxVersion": "17.2.8",
-    "deps": {
-        "@angular/animations": "^16.0.0",
-        "@angular/cdk": "^16.0.0",
-        "@angular/common": "^16.0.0",
-        "@angular/compiler": "^16.0.0",
-        "@angular/core": "^16.0.0",
-        "@angular/forms": "^16.0.0",
-        "@angular/platform-browser": "^16.0.0",
-        "@angular/platform-browser-dynamic": "^16.0.0",
-        "@angular/router": "^16.0.0",
-        "@nebular/eva-icons": "^12.0.0",
-        "@nebular/theme": "^12.0.0",
-        "eva-icons": "^1.1.3",
-        "rxjs": "~7.8.0",
-        "tslib": "^2.3.0",
-        "zone.js": "~0.13.0",
-        "@angular-devkit/build-angular": "^16.0.0",
-        "@angular-devkit/core": "~16.0.0",
-        "@angular-devkit/schematics": "~16.0.0",
-        "@angular/cli": "~16.0.0",
-        "@angular/compiler-cli": "^16.0.0",
-        "@nx/angular": "17.2.8",
-        "@nx/workspace": "17.2.8",
-        "@schematics/angular": "~16.0.0",
-        "@types/jasmine": "~4.3.0",
-        "jasmine-core": "~4.6.0",
-        "karma": "~6.4.0",
-        "karma-chrome-launcher": "~3.2.0",
-        "karma-coverage": "~2.2.0",
-        "karma-jasmine": "~5.1.0",
-        "karma-jasmine-html-reporter": "~2.0.0",
-        "nx": "17.2.8",
-        "typescript": "~5.0.2"
-    },
-    "pathMappings": {},
-    "nxJsonPlugins": [],
-    "fileMap": {
-        "nonProjectFiles": [
-            {
-                "file": "src/app/meal-input/meal-input.component.spec.ts",
-                "hash": "12465322794420929780"
-            },
-            {
-                "file": "src/app/donate/donate.service.spec.ts",
-                "hash": "14411948431860929254"
-            },
-            {
-                "file": "src/app/business-or-student/business-or-student.service.ts",
-                "hash": "16661056366206156198"
-            },
-            {
-                "file": "src/app/business-or-student/business-or-student.service.spec.ts",
-                "hash": "2227927686115163751"
-            },
-            {
-                "file": "src/app/meal-snack-input/meal-snack-input.component.html",
-                "hash": "7122313870089662592"
-            },
-            {
-                "file": "tsconfig.json",
-                "hash": "12681081656146497259"
-            },
-            {
-                "file": "src/app/log-in/log-in.component.html",
-                "hash": "12223447290312513320"
-            },
-            {
-                "file": "src/app/log-in/log-in.component.scss",
-                "hash": "17643195364491121934"
-            },
-            {
-                "file": "src/app/app.component.html",
-                "hash": "7687831388557277888"
-            },
-            {
-                "file": "src/app/business-or-data/business-or-data.service.spec.ts",
-                "hash": "3839797297414220134"
-            },
-            {
-                "file": "src/app/sign-up/Sign-Up.component.scss",
-                "hash": "4055606894390288348"
-            },
-            {
-                "file": "src/app/form-data/form-data.service.ts",
-                "hash": "5058060196758487557"
-            },
-            {
-                "file": "src/app/meal-input/meal-input.component.html",
-                "hash": "13194829780322530398"
-            },
-            {
-                "file": "src/app/business-or-data/business-or-data.service.ts",
-                "hash": "16520110421770311333"
-            },
-            {
-                "file": "src/app/log-in/log-in.component.ts",
-                "hash": "12198751680145064589"
-            },
-            {
-                "file": "src/app/sign-up/Sign-Up.component.ts",
-                "hash": "7102983256608064903"
-            },
-            {
-                "file": "src/app/form-data/form-data.service.spec.ts",
-                "hash": "3108410165615739033"
-            },
-            {
-                "file": "src/app/sign-up/Sign-Up.component.html",
-                "hash": "12932463468544144538"
-            },
-            {
-                "file": "src/app/sign-up/Sign-Up.component.spec.ts",
-                "hash": "365422502887453196"
-            },
-            {
-                "file": "src/app/meal-input/meal-input.component.scss",
-                "hash": "4055606894390288348"
-            },
-            {
-                "file": "src/app/meal-snack-input/meal-snack-input.component.ts",
-                "hash": "17470130691858831643"
-            },
-            {
-                "file": "src/app/app.component.ts",
-                "hash": "15343619722489632112"
-            },
-            {
-                "file": "src/app/meal-snack-input/meal-snack-input.component.scss",
-                "hash": "4055606894390288348"
-            },
-            {
-                "file": "src/app/log-in/log-in.component.spec.ts",
-                "hash": "18001939499892717425"
-            },
-            {
-                "file": "src/app/app.module.ts",
-                "hash": "15426112548063785789"
-            },
-            {
-                "file": "src/app/donate/donate.service.ts",
-                "hash": "14462528570452660180"
-            },
-            {
-                "file": "src/app/meal-snack-input/meal-snack-input.component.spec.ts",
-                "hash": "1172720709576076689"
-            },
-            {
-                "file": "src/app/meal-input/meal-input.component.ts",
-                "hash": "4294069913488272542"
-            },
-            {
-                "file": "src/app/donate-service/donate.service.ts",
-                "hash": "7512046816586770048"
-            }
-        ],
-        "projectFileMap": {
-            "FrontEnd": [
-                {
-                    "file": ".editorconfig",
-                    "hash": "17241496168097493888"
-                },
-                {
-                    "file": ".gitignore",
-                    "hash": "4689145951703824387"
-                },
-                {
-                    "file": ".vscode/extensions.json",
-                    "hash": "6740797025222968025"
-                },
-                {
-                    "file": ".vscode/launch.json",
-                    "hash": "17406702432687230417"
-                },
-                {
-                    "file": ".vscode/tasks.json",
-                    "hash": "10093397977228577162"
-                },
-                {
-                    "file": "README.md",
-                    "hash": "17568147228569099430"
-                },
-                {
-                    "file": "nx.json",
-                    "hash": "15329929871676255151"
-                },
-                {
-                    "file": "package-lock.json",
-                    "hash": "5519744030604352834"
-                },
-                {
-                    "file": "package.json",
-                    "hash": "11135504856485886304",
-                    "deps": [
-                        "npm:@angular/animations",
-                        "npm:@angular/common",
-                        "npm:@angular/compiler",
-                        "npm:@angular/core",
-                        "npm:@angular/forms",
-                        "npm:@angular/platform-browser",
-                        "npm:@angular/platform-browser-dynamic",
-                        "npm:@angular/router",
-                        "npm:@nebular/eva-icons",
-                        "npm:@nebular/theme",
-                        "npm:eva-icons",
-                        "npm:rxjs",
-                        "npm:tslib",
-                        "npm:zone.js",
-                        "npm:@angular-devkit/build-angular",
-                        "npm:@angular-devkit/core",
-                        "npm:@angular-devkit/schematics",
-                        "npm:@angular/cli",
-                        "npm:@angular/compiler-cli",
-                        "npm:@nx/angular",
-                        "npm:@nx/workspace",
-                        "npm:@schematics/angular",
-                        "npm:@types/jasmine",
-                        "npm:jasmine-core",
-                        "npm:karma",
-                        "npm:karma-chrome-launcher",
-                        "npm:karma-coverage",
-                        "npm:karma-jasmine",
-                        "npm:karma-jasmine-html-reporter",
-                        "npm:nx",
-                        "npm:typescript"
-                    ]
-                },
-                {
-                    "file": "project.json",
-                    "hash": "16691103821060457508"
-                },
-                {
-                    "file": "src/app/app-routing.module.ts",
-                    "hash": "15638978050551223935",
-                    "deps": [
-                        "npm:@angular/core",
-                        "npm:@angular/router"
-                    ]
-                },
-                {
-                    "file": "src/app/app.component.html",
-                    "hash": "16582896241444024536"
-                },
-                {
-                    "file": "src/app/app.component.scss",
-                    "hash": "3244421341483603138"
-                },
-                {
-                    "file": "src/app/app.component.spec.ts",
-                    "hash": "2278128444643707878",
-                    "deps": [
-                        "npm:@angular/core",
-                        "npm:@angular/router"
-                    ]
-                },
-                {
-                    "file": "src/app/app.component.ts",
-                    "hash": "14835632733060162398",
-                    "deps": [
-                        "npm:@angular/core",
-                        "npm:@nebular/theme"
-                    ]
-                },
-                {
-                    "file": "src/app/app.module.ts",
-                    "hash": "14513628448876181907",
-                    "deps": [
-                        "npm:@angular/core",
-                        "npm:@angular/platform-browser",
-                        "npm:@nebular/theme",
-                        "npm:@angular/router",
-                        "npm:@angular/common",
-                        "npm:@nebular/eva-icons"
-                    ]
-                },
-                {
-                    "file": "src/app/business-or-student/business-or-student.service.spec.ts",
-                    "hash": "10281512168818919474",
-                    "deps": [
-                        "npm:@angular/core"
-                    ]
-                },
-                {
-                    "file": "src/app/business-or-student/business-or-student.service.ts",
-                    "hash": "11503541501578329865",
-                    "deps": [
-                        "npm:@angular/core",
-                        "npm:rxjs"
-                    ]
-                },
-                {
-                    "file": "src/app/donate-service/donate.service.spec.ts",
-                    "hash": "17840779991703182788",
-                    "deps": [
-                        "npm:@angular/core"
-                    ]
-                },
-                {
-                    "file": "src/app/donate-service/donate.service.ts",
-                    "hash": "3506456057494599914",
-                    "deps": [
-                        "npm:@angular/core"
-                    ]
-                },
-                {
-                    "file": "src/app/form-data/form-data.service.spec.ts",
-                    "hash": "1716919766899369046",
-                    "deps": [
-                        "npm:@angular/core"
-                    ]
-                },
-                {
-                    "file": "src/app/form-data/form-data.service.ts",
-                    "hash": "6621552944726427248",
-                    "deps": [
-                        "npm:@angular/core",
-                        "npm:@angular/common"
-                    ]
-                },
-                {
-                    "file": "src/app/meal-snack-input/meal-snack-input.component.html",
-                    "hash": "8543804458148451221"
-                },
-                {
-                    "file": "src/app/meal-snack-input/meal-snack-input.component.scss",
-                    "hash": "15036214574332298676"
-                },
-                {
-                    "file": "src/app/meal-snack-input/meal-snack-input.component.spec.ts",
-                    "hash": "14408593055999447288",
-                    "deps": [
-                        "npm:@angular/core"
-                    ]
-                },
-                {
-                    "file": "src/app/meal-snack-input/meal-snack-input.component.ts",
-                    "hash": "16071800765706066259",
-                    "deps": [
-                        "npm:@angular/core",
-                        "npm:@angular/common",
-                        "npm:@angular/forms",
-                        "npm:@nebular/theme"
-                    ]
-                },
-                {
-                    "file": "src/app/sign-up/Sign-Up.component.html",
-                    "hash": "8418210200058155020"
-                },
-                {
-                    "file": "src/app/sign-up/Sign-Up.component.scss",
-                    "hash": "15036214574332298676"
-                },
-                {
-                    "file": "src/app/sign-up/Sign-Up.component.spec.ts",
-                    "hash": "14338177472217521352",
-                    "deps": [
-                        "npm:@angular/core"
-                    ]
-                },
-                {
-                    "file": "src/app/sign-up/Sign-Up.component.ts",
-                    "hash": "17346737049903860738",
-                    "deps": [
-                        "npm:@angular/core",
-                        "npm:@angular/common",
-                        "npm:@angular/forms",
-                        "npm:@nebular/theme"
-                    ]
-                },
-                {
-                    "file": "src/assets/.gitkeep",
-                    "hash": "3244421341483603138"
-                },
-                {
-                    "file": "src/favicon.ico",
-                    "hash": "3887491056732423038"
-                },
-                {
-                    "file": "src/index.html",
-                    "hash": "7071023234128838595"
-                },
-                {
-                    "file": "src/main.ts",
-                    "hash": "9374417435436826166",
-                    "deps": [
-                        "npm:@angular/platform-browser-dynamic"
-                    ]
-                },
-                {
-                    "file": "src/styles.scss",
-                    "hash": "2917954890128038984"
-                },
-                {
-                    "file": "tsconfig.app.json",
-                    "hash": "13119632651406065538"
-                },
-                {
-                    "file": "tsconfig.json",
-                    "hash": "10454659290597005886"
-                },
-                {
-                    "file": "tsconfig.spec.json",
-                    "hash": "5122839733245053999"
-                }
-            ]
+  "version": "6.0",
+  "nxVersion": "17.2.8",
+  "deps": {
+    "@angular/animations": "^16.0.0",
+    "@angular/cdk": "^16.0.0",
+    "@angular/common": "^16.0.0",
+    "@angular/compiler": "^16.0.0",
+    "@angular/core": "^16.0.0",
+    "@angular/forms": "^16.0.0",
+    "@angular/platform-browser": "^16.0.0",
+    "@angular/platform-browser-dynamic": "^16.0.0",
+    "@angular/router": "^16.0.0",
+    "@nebular/eva-icons": "^12.0.0",
+    "@nebular/theme": "^12.0.0",
+    "eva-icons": "^1.1.3",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.13.0",
+    "@angular-devkit/build-angular": "^16.0.0",
+    "@angular-devkit/core": "~16.0.0",
+    "@angular-devkit/schematics": "~16.0.0",
+    "@angular/cli": "~16.0.0",
+    "@angular/compiler-cli": "^16.0.0",
+    "@nx/angular": "17.2.8",
+    "@nx/workspace": "17.2.8",
+    "@schematics/angular": "~16.0.0",
+    "@types/jasmine": "~4.3.0",
+    "jasmine-core": "~4.6.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.0.0",
+    "nx": "17.2.8",
+    "typescript": "~5.0.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [],
+    "projectFileMap": {
+      "FrontEnd": [
+        {
+          "file": ".editorconfig",
+          "hash": "6686520031028425313"
+        },
+        {
+          "file": ".gitignore",
+          "hash": "13044518069027839699"
+        },
+        {
+          "file": ".vscode/extensions.json",
+          "hash": "12343942279124280405"
+        },
+        {
+          "file": ".vscode/launch.json",
+          "hash": "17038929134016848735"
+        },
+        {
+          "file": ".vscode/tasks.json",
+          "hash": "5336636969995539451"
+        },
+        {
+          "file": "README.md",
+          "hash": "9674884162398583583"
+        },
+        {
+          "file": "nx.json",
+          "hash": "2846808291929282824"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "5519744030604352834"
+        },
+        {
+          "file": "package.json",
+          "hash": "4010584354092675491",
+          "deps": [
+            "npm:@angular/animations",
+            "npm:@angular/common",
+            "npm:@angular/compiler",
+            "npm:@angular/core",
+            "npm:@angular/forms",
+            "npm:@angular/platform-browser",
+            "npm:@angular/platform-browser-dynamic",
+            "npm:@angular/router",
+            "npm:@nebular/eva-icons",
+            "npm:@nebular/theme",
+            "npm:eva-icons",
+            "npm:rxjs",
+            "npm:tslib",
+            "npm:zone.js",
+            "npm:@angular-devkit/build-angular",
+            "npm:@angular-devkit/core",
+            "npm:@angular-devkit/schematics",
+            "npm:@angular/cli",
+            "npm:@angular/compiler-cli",
+            "npm:@nx/angular",
+            "npm:@nx/workspace",
+            "npm:@schematics/angular",
+            "npm:@types/jasmine",
+            "npm:jasmine-core",
+            "npm:karma",
+            "npm:karma-chrome-launcher",
+            "npm:karma-coverage",
+            "npm:karma-jasmine",
+            "npm:karma-jasmine-html-reporter",
+            "npm:nx",
+            "npm:typescript"
+          ]
+        },
+        {
+          "file": "project.json",
+          "hash": "15297980307650170974"
+        },
+        {
+          "file": "src/app/app-routing.module.ts",
+          "hash": "6250625392482207240",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/app.component.html",
+          "hash": "7687831388557277888"
+        },
+        {
+          "file": "src/app/app.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/app.component.spec.ts",
+          "hash": "3223819480989612926",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/app.component.ts",
+          "hash": "15343619722489632112",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@nebular/theme"
+          ]
+        },
+        {
+          "file": "src/app/app.module.ts",
+          "hash": "15426112548063785789",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/platform-browser",
+            "npm:@nebular/theme",
+            "npm:@angular/router",
+            "npm:@angular/common",
+            "npm:@nebular/eva-icons"
+          ]
+        },
+        {
+          "file": "src/app/business-or-student/business-or-student.service.spec.ts",
+          "hash": "2227927686115163751",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/business-or-student/business-or-student.service.ts",
+          "hash": "16661056366206156198",
+          "deps": [
+            "npm:@angular/core",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "src/app/donate-service/donate.service.spec.ts",
+          "hash": "14411948431860929254",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/donate-service/donate.service.ts",
+          "hash": "7512046816586770048",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/form-data/form-data.service.spec.ts",
+          "hash": "3108410165615739033",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/form-data/form-data.service.ts",
+          "hash": "5058060196758487557",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "src/app/items/items.component.html",
+          "hash": "13464974403415099670"
+        },
+        {
+          "file": "src/app/items/items.component.scss",
+          "hash": "4055606894390288348"
+        },
+        {
+          "file": "src/app/items/items.component.spec.ts",
+          "hash": "9313561111032591625",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/items/items.component.ts",
+          "hash": "3372813129621494210",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "src/app/log-in/log-in.component.html",
+          "hash": "12223447290312513320"
+        },
+        {
+          "file": "src/app/log-in/log-in.component.scss",
+          "hash": "17643195364491121934"
+        },
+        {
+          "file": "src/app/log-in/log-in.component.spec.ts",
+          "hash": "18001939499892717425",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/log-in/log-in.component.ts",
+          "hash": "12198751680145064589",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/forms",
+            "npm:@nebular/theme",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/meal-snack-input/meal-snack-input.component.html",
+          "hash": "7122313870089662592"
+        },
+        {
+          "file": "src/app/meal-snack-input/meal-snack-input.component.scss",
+          "hash": "4055606894390288348"
+        },
+        {
+          "file": "src/app/meal-snack-input/meal-snack-input.component.spec.ts",
+          "hash": "1172720709576076689",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/meal-snack-input/meal-snack-input.component.ts",
+          "hash": "17470130691858831643",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/forms",
+            "npm:@nebular/theme"
+          ]
+        },
+        {
+          "file": "src/app/sign-up/Sign-Up.component.html",
+          "hash": "13548843216260873692"
+        },
+        {
+          "file": "src/app/sign-up/Sign-Up.component.scss",
+          "hash": "6045178869174285273"
+        },
+        {
+          "file": "src/app/sign-up/Sign-Up.component.spec.ts",
+          "hash": "365422502887453196",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/sign-up/Sign-Up.component.ts",
+          "hash": "5224452690444929446",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/forms",
+            "npm:@nebular/theme",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/favicon.ico",
+          "hash": "3887491056732423038"
+        },
+        {
+          "file": "src/index.html",
+          "hash": "11412929333146849621"
+        },
+        {
+          "file": "src/main.ts",
+          "hash": "12246588107753938993",
+          "deps": [
+            "npm:@angular/platform-browser-dynamic"
+          ]
+        },
+        {
+          "file": "src/styles.scss",
+          "hash": "5195668842064076916"
+        },
+        {
+          "file": "tsconfig.app.json",
+          "hash": "17337579397915052279"
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "12681081656146497259"
+        },
+        {
+          "file": "tsconfig.spec.json",
+          "hash": "15575553540147145788"
         }
+      ]
     }
+  }
 }

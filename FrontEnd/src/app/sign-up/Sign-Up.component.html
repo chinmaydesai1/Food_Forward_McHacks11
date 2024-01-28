@@ -1,111 +1,386 @@
-<div class="align">
-    <nb-card>
-        <nb-card-body>
-            <form [formGroup]="studentForm" (ngSubmit)="onStudentFormSubmit()">
-                <h1>User Details</h1>
-                <br />
-                <!--  name attribute is necessary to provide an identifier for
-                ngModel instance -->
-                <!-- Inorder to refer to form control instance created by ngModel we bind it 
-                to template reference variable -->
-                <nb-form-field [style.margin]="'auto'">
-                    <input type="text" placeholder="UserName" name="UserDetails" #NameReference nbInput status="primary"
-                        formControlName="UserName" />
-                    <nb-icon *ngIf="
-                            studentForm.controls.username.touched &&
-                            studentForm.controls.username.invalid
-                        " nbSuffix icon="alert-circle-outline" status="danger"></nb-icon>
-                </nb-form-field>
-                <div *ngIf="
-                        studentForm.controls.username.touched && studentForm.controls.username.invalid
-                    " [style.margin]="'auto'">
-                    <nb-alert status="danger" *ngIf="studentForm.controls.username.errors?.['required']">Username field
-                        is
-                        empty!</nb-alert>
-                    <nb-alert status="danger" *ngIf="studentForm.controls.username.errors?.['minlength']">Username must
-                        be
-                        atleast
-                        5
-                        characters!</nb-alert>
-                </div>
-                <br />
-                <br />
-                <nb-form-field [style.margin]="'auto'">
-                    <nb-icon *ngIf="
-                            studentForm.controls.email.touched &&
-                            studentForm.controls.email.invalid
-                        " nbSuffix icon="alert-circle-outline" status="danger"></nb-icon>
-                    <input type="email" placeholder="Email" nbInput status="primary" name="Email"
-                        formControlName="email" />
-                </nb-form-field>
-                <div *ngIf="
-                        studentForm.controls.email.touched &&
-                        studentForm.controls.email.invalid
-                    " [style.margin]="'auto'">
-                    <nb-alert status="danger" *ngIf="studentForm.controls.email.errors?.['required']">Email field is
-                        empty!</nb-alert>
-                    <nb-alert status="danger" *ngIf="studentForm.controls.email.errors?.['pattern']">Unrecognized email
-                        pattern!</nb-alert>
-                </div>
-                <br />
-                <br />
-                <nb-form-field [style.margin]="'auto'">
-                    <textarea type="text" placeholder="Address" rows="10" cols="30" nbInput #AddressReference
-                        status="primary" name="Address" formControlName="address"></textarea>
-                    <nb-icon *ngIf="
-                            studentForm.controls.address.touched &&
-                            studentForm.controls.address.invalid
-                        " nbSuffix icon="alert-circle-outline" status="danger"></nb-icon>
-                </nb-form-field>
-                <div *ngIf="
-                        studentForm.controls.address.touched &&
-                        studentForm.controls.address.invalid
-                    " [style.margin]="'auto'" [style.width.px]="AddressReference.offsetWidth">
-                    <nb-alert status="danger">Address is necessary! </nb-alert>
-                </div>
-                <br />
-                <br />
-                <div [formGroup]="studentForm.controls.contactDetails">
-                    <nb-form-field [style.margin]="'auto'">
-                        <input type="tel" name="phoneNumber" placeholder="Phone Number" nbInput status="primary"
-                            formControlName="phoneNumber" #phoneNumber />
-                        <nb-icon *ngIf="
-                                studentForm.controls.contactDetails.controls
-                                    .phoneNumber.touched &&
-                                studentForm.controls.contactDetails.controls
-                                    .phoneNumber.invalid &&
-                                studentForm.controls.contactDetails.controls
-                                    .phoneNumber.errors?.['minlength']
-                            " nbSuffix icon="alert-circle-outline" status="danger"></nb-icon>
-                    </nb-form-field>
-                    <div *ngIf="
-                            studentForm.controls.contactDetails.controls.phoneNumber
-                                .touched &&
-                            studentForm.controls.contactDetails.controls.phoneNumber
-                                .invalid
-                        " [style.margin]="'auto'" [style.width.px]="phoneNumber.offsetWidth">
-                        <nb-alert status="danger"
-                            *ngIf="studentForm.controls.contactDetails.controls.phoneNumber.errors?.['required']">Phone
-                            Number
-                            is necessary!
-                        </nb-alert>
-                        <nb-alert status="danger" *ngIf="!studentForm.controls.contactDetails.controls.phoneNumber.errors?.['minlength'] &&
-                            studentForm.controls.contactDetails.controls.phoneNumber.errors?.['pattern']">Wrong Number
-                        </nb-alert>
-                        <nb-alert status="danger"
-                            *ngIf="studentForm.controls.contactDetails.controls.phoneNumber.errors?.['minlength']">Too
-                            short
-                        </nb-alert>
-                    </div>
-                </div>
-                <br />
-                <br />
-                <button type="submit" nbButton shape="rectangle" status="primary" [disabled]="studentForm.invalid">
-                    Submit
-                </button>
-                <br />
-                <br />
-            </form>
-        </nb-card-body>
-    </nb-card>
+<div>
+  <nb-card>
+    <button nbButton status="warning" [style.width]="'100%'">Sign Up!</button>
+    <nb-card-body class="center">
+      <div *ngIf="!show" class="center">
+        <button
+          nbButton
+          status="success"
+          size="giant"
+          (click)="studentFormPicked()"
+          [style.margin-right]="'10px'"
+        >
+          Student Sign Form
+        </button>
+        <button
+          nbButton
+          status="primary"
+          size="giant"
+          (click)="businessFormPicked()"
+          [style.margin-right]="'10px'"
+        >
+          Business Sign Form
+        </button>
+      </div>
+      <div *ngIf="showStudentForm">
+        <form [formGroup]="studentForm" (ngSubmit)="onStudentFormSubmit()">
+          <br />
+          <nb-form-field [style.margin]="'auto'">
+            <label for="UserDetails">User Details</label>
+            <input
+              type="text"
+              placeholder="userName"
+              name="UserDetails"
+              #NameReference
+              nbInput
+              status="primary"
+              formControlName="userName"
+            />
+            <nb-icon
+              *ngIf="
+                studentForm.controls.userName.touched &&
+                studentForm.controls.userName.invalid
+              "
+              nbSuffix
+              icon="alert-circle-outline"
+              status="danger"
+              [style.margin-top]="'50%'"
+            ></nb-icon>
+          </nb-form-field>
+          <div
+            *ngIf="
+              studentForm.controls.userName.touched &&
+              studentForm.controls.userName.invalid
+            "
+            [style.margin]="'auto'"
+          >
+            <nb-alert
+              status="danger"
+              *ngIf="studentForm.controls.userName.errors?.['required']"
+              >userName field is empty!</nb-alert
+            >
+            <nb-alert
+              status="danger"
+              *ngIf="studentForm.controls.userName.errors?.['minlength']"
+              >userName must be atleast 5 characters!</nb-alert
+            >
+          </div>
+          <br />
+          <br />
+          <nb-form-field [style.margin]="'auto'">
+            <label>Email</label>
+            <nb-icon
+              *ngIf="
+                studentForm.controls.email.touched &&
+                studentForm.controls.email.invalid
+              "
+              nbSuffix
+              icon="alert-circle-outline"
+              status="danger"
+              [style.margin-top]="'50%'"
+            ></nb-icon>
+            <input
+              type="email"
+              placeholder="Email"
+              nbInput
+              status="primary"
+              name="Email"
+              formControlName="email"
+            />
+          </nb-form-field>
+          <div
+            *ngIf="
+              studentForm.controls.email.touched &&
+              studentForm.controls.email.invalid
+            "
+            [style.margin]="'auto'"
+          >
+            <nb-alert
+              status="danger"
+              *ngIf="studentForm.controls.email.errors?.['required']"
+              >Email field is empty!</nb-alert
+            >
+            <nb-alert
+              status="danger"
+              *ngIf="studentForm.controls.email.errors?.['pattern']"
+              >Unrecognized email pattern!</nb-alert
+            >
+          </div>
+          <br />
+          <br />
+          <nb-form-field [style.margin]="'auto'">
+            <label>Please Select a University</label>
+            <nb-icon
+              *ngIf="
+                studentForm.controls.school.touched &&
+                studentForm.controls.school.invalid
+              "
+              nbPrefix
+              status="danger"
+              icon="alert-circle-outline"
+              [style.margin-top]="'50%'"
+            ></nb-icon>
+            <nb-select
+              placeholder="Select School"
+              formControlName="school"
+              filled
+              status="success"
+            >
+              <nb-option value="Concordia University"
+                >Concordia University</nb-option
+              >
+              <nb-option value="McGill University">McGill University</nb-option>
+              <nb-option value="Université de Montréal"
+                >Université de Montréal</nb-option
+              >
+              <nb-option value="Polytechnique Montréal"
+                >Polytechnique Montréal</nb-option
+              >
+            </nb-select>
+          </nb-form-field>
+          <div
+            [style.margin]="'auto'"
+            *ngIf="
+              studentForm.controls.school.touched &&
+              studentForm.controls.school.invalid
+            "
+          >
+            <nb-alert
+              status="danger"
+              *ngIf="studentForm.controls.school.errors?.['required']"
+              >This field is required</nb-alert
+            >
+          </div>
+          <br />
+          <br />
+          <nb-form-field [style.margin]="'auto'">
+            <label>Password</label>
+            <input
+              type="password"
+              placeholder="password"
+              formControlName="password"
+              nbInput
+              status="primary"
+            />
+            <nb-icon
+              *ngIf="
+                studentForm.controls.password.touched &&
+                studentForm.controls.password.invalid
+              "
+              icon="alert-circle-outline"
+              status="danger"
+              [style.margin-top]="'50%'"
+            >
+            </nb-icon>
+          </nb-form-field>
+          <div
+            [style.margin]="'auto'"
+            *ngIf="
+              studentForm.controls.password.touched &&
+              studentForm.controls.password.invalid
+            "
+          >
+            <nb-alert
+              status="danger"
+              *ngIf="studentForm.controls.password.errors?.['required']"
+            >
+              Password is required!
+            </nb-alert>
+            <nb-alert
+              status="danger"
+              *ngIf="studentForm.controls.password.errors?.['minlength']"
+            >
+              Password should be at least 8 letters!
+            </nb-alert>
+          </div>
+          <!--  -->
+
+          <br />
+          <br />
+          <button
+            type="submit"
+            nbButton
+            shape="rectangle"
+            status="primary"
+            [disabled]="studentForm.invalid"
+          >
+            Submit
+          </button>
+          <br />
+          <br />
+        </form>
+      </div>
+      <div *ngIf="showBusinessForm">
+        <form [formGroup]="businessForm" (ngSubmit)="onBusinessFormSubmit()">
+          <br />
+          <nb-form-field [style.margin]="'auto'">
+            <label for="BusinessName">Business Name</label>
+            <input
+              type="text"
+              placeholder="Business Name"
+              name="BusinessName"
+              nbInput
+              status="primary"
+              formControlName="businessName"
+            />
+            <nb-icon
+              *ngIf="
+                businessForm.controls.businessName.touched &&
+                businessForm.controls.businessName.invalid
+              "
+              nbSuffix
+              icon="alert-circle-outline"
+              status="danger"
+              [style.margin-top]="'50%'"
+            ></nb-icon>
+          </nb-form-field>
+          <div
+            *ngIf="
+              businessForm.controls.businessName.touched &&
+              businessForm.controls.businessName.invalid
+            "
+            [style.margin]="'auto'"
+          >
+            <nb-alert
+              status="danger"
+              *ngIf="businessForm.controls.businessName.errors?.['required']"
+              >Business Name field is empty!</nb-alert
+            >
+            <nb-alert
+              status="danger"
+              *ngIf="businessForm.controls.businessName.errors?.['minlength']"
+              >Business Name must be atleast 5 characters!</nb-alert
+            >
+          </div>
+          <br />
+          <br />
+          <label>Address</label>
+          <nb-form-field [style.margin]="'auto'">
+            <textarea
+              type="text"
+              placeholder="Address"
+              rows="10"
+              cols="30"
+              nbInput
+              #AddressReference
+              status="primary"
+              name="Address"
+              formControlName="address"
+            ></textarea>
+            <nb-icon
+              *ngIf="
+                businessForm.controls.address.touched &&
+                businessForm.controls.address.invalid
+              "
+              nbSuffix
+              icon="alert-circle-outline"
+              status="danger"
+            ></nb-icon>
+          </nb-form-field>
+          <div
+            *ngIf="
+              businessForm.controls.address.touched &&
+              businessForm.controls.address.invalid
+            "
+            [style.margin]="'auto'"
+            [style.width.px]="AddressReference.offsetWidth"
+          >
+            <nb-alert status="danger">Address is necessary! </nb-alert>
+          </div>
+          <br />
+          <br />
+          <label>Phone Number</label>
+          <nb-form-field [style.margin]="'auto'">
+            <input
+              type="tel"
+              name="contactNumber"
+              placeholder="Phone Number"
+              nbInput
+              status="primary"
+              formControlName="contactNumber"
+              #contactNumber
+            />
+            <nb-icon
+              *ngIf=" businessForm.controls.contactNumber.touched 
+                && businessForm.controls.contactNumber.invalid &&
+                    businessForm.controls.contactNumber.errors?.['minlength']"
+              nbSuffix
+              icon="alert-circle-outline"
+              status="danger"
+            ></nb-icon>
+          </nb-form-field>
+          <div
+            *ngIf="
+              businessForm.controls.contactNumber.touched &&
+              businessForm.controls.contactNumber.invalid
+            "
+            [style.margin]="'auto'"
+            [style.width.px]="contactNumber.offsetWidth"
+          >
+            <nb-alert
+              status="danger"
+              *ngIf="businessForm.controls.contactNumber.errors?.['required']"
+              >Phone Number is necessary!
+            </nb-alert>
+            <nb-alert
+              status="danger"
+              *ngIf="!businessForm.controls.contactNumber.errors?.['minlength'] &&
+                                businessForm.controls.contactNumber.errors?.['pattern']"
+              >Wrong Number
+            </nb-alert>
+            <nb-alert
+              status="danger"
+              *ngIf="businessForm.controls.contactNumber.errors?.['minlength']"
+              >Too short
+            </nb-alert>
+          </div>
+          <br />
+          <br />
+          <nb-form-field [style.margin]="'auto'">
+            <label>Password</label>
+            <input
+              type="password"
+              placeholder="password"
+              formControlName="password"
+              nbInput
+              status="primary"
+            />
+            <nb-icon
+              *ngIf="
+                businessForm.controls.password.touched &&
+                businessForm.controls.password.invalid
+              "
+              icon="alert-circle-outline"
+              status="danger"
+              [style.margin-top]="'50%'"
+            >
+            </nb-icon>
+          </nb-form-field>
+          <div
+            [style.margin]="'auto'"
+            *ngIf="
+              businessForm.controls.password.touched &&
+              businessForm.controls.password.invalid
+            "
+          >
+            <nb-alert
+              status="danger"
+              *ngIf="businessForm.controls.password.errors?.['required']"
+            >
+              Password is required!
+            </nb-alert>
+            <nb-alert
+              status="danger"
+              *ngIf="businessForm.controls.password.errors?.['minlength']"
+            >
+              Password should be at least 8 letters!
+            </nb-alert>
+          </div>
+          <br />
+          <br />
+          <button nbButton status="primary">Submit</button>
+        </form>
+      </div>
+    </nb-card-body>
+  </nb-card>
 </div>
