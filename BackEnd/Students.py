@@ -1,6 +1,7 @@
 from flask import Blueprint, request, jsonify
 from pymongo import MongoClient
 import bcrypt
+import db
 
 studentBlueprint = Blueprint('student', __name__)
 
@@ -17,6 +18,9 @@ def registerUser():
 
     hashedPassword = bcrypt.hashpw(data['password'].encode('utf-8'), bcrypt.gensalt())
     data['password'] = hashedPassword
+
+    data['meal'] = {"meal": False}
+    data['snack'] = 0 
 
     try:
         db.Student.insert_one(data)
