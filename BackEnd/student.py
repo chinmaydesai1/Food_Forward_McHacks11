@@ -4,7 +4,7 @@ import db
 
 studentBlueprint = Blueprint('student', __name__)
 
-@studentBlueprint.route('/studentFormData', methods = ["POST", "GET"])
+@studentBlueprint.route('/studentFormData/logIn', methods = ["POST", "GET"])
 def registerUser():
     data = request.json
     

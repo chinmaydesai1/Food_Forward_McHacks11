@@ -1,0 +1,6 @@
+flask,
+bcrypt,
+pymongo,
+flask_cors,
+apscheduler,
+openai

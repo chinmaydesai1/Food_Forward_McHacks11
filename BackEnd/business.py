@@ -4,7 +4,7 @@ import db
 
 businessBlueprint = Blueprint('business', __name__)
 
-@businessBlueprint.route('/businessFormData', methods = ["POST", "GET"])
+@businessBlueprint.route('/businessFormData/logIn', methods = ["POST", "GET"])
 def registerUser():
     data = request.json
     
