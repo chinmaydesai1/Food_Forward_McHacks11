@@ -1,0 +1,16 @@
+CREATE DATABASE montreal_db;
+USE montreal_db;
+
+CREATE TABLE restaurants (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    address VARCHAR(255) NOT NULL,
+    sponsors VARCHAR(255)
+);
+
+CREATE TABLE students (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    contact_number VARCHAR(20),
+    password VARCHAR(255) NOT NULL,
+    self_photo BLOB
+);
