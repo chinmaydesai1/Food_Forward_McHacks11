@@ -1,6 +1,19 @@
 <nb-layout>
   <nb-layout-header fixed
     ><nb-icon icon="menu-outline" href="#" (click)="toggle()"></nb-icon>
+    <button
+      nbButton
+      status="info"
+      *ngIf="!signedIn"
+      [style.margin-left]="'auto'"
+      [style.margin-right]="'0.5em'"
+      routerLink="signUp"
+    >
+      Sign Up
+    </button>
+    <button nbButton status="warning" [style.margin-right]="'0.5em'">
+      Log In
+    </button>
   </nb-layout-header>
 
   <nb-sidebar>

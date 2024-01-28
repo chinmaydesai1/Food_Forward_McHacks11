@@ -1,5 +1,9 @@
 import { Component } from '@angular/core';
-import { NbSidebarService, NbMenuItem, NbMenuService } from '@nebular/theme'
+import {
+    NbSidebarService, NbMenuItem, NbMenuService,
+} from '@nebular/theme'
+import { BusinessOrStudentService } from './business-or-student/business-or-student.service';
+
 @Component({
     selector: 'app-root',
     templateUrl: './app.component.html',
@@ -7,6 +11,7 @@ import { NbSidebarService, NbMenuItem, NbMenuService } from '@nebular/theme'
 })
 export class AppComponent {
     title = 'FrontEnd';
+    signedIn = false;
     items: NbMenuItem[] = [
         {
             title: 'Home',
@@ -26,7 +31,14 @@ export class AppComponent {
 
         },
     ]
-    constructor(private sidebarService: NbSidebarService, private menuService: NbMenuService) { }
+    constructor(private sidebarService: NbSidebarService, private menuService: NbMenuService, private busOrStud: BusinessOrStudentService) {
+        this.busOrStud = new BusinessOrStudentService();
+        this.busOrStud.businessOrDataSubject.subscribe((data) => {
+            if ("signedIn" in data) {
+                this.signedIn = data.signedIn;
+            }
+        })
+    }
     toggle() {
         this.sidebarService.toggle(true)
         return false

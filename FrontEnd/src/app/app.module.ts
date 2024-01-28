@@ -10,6 +10,7 @@ import {
     NbMenuModule,
     NbMenuService,
     NbIconModule,
+    NbButtonModule
 
 } from '@nebular/theme'
 import { FormDataService } from './form-data/form-data.service';
@@ -21,6 +22,7 @@ import { NbEvaIconsModule } from '@nebular/eva-icons'
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MealSnackInputComponent } from './meal-snack-input/meal-snack-input.component';
+import { SignUpComponent } from './sign-up/Sign-Up.component';
 @NgModule({
     declarations: [
         AppComponent
@@ -38,9 +40,11 @@ import { MealSnackInputComponent } from './meal-snack-input/meal-snack-input.com
         NbSidebarModule,
         NbMenuModule.forRoot(),
         NbIconModule,
+        NbButtonModule,
         HttpClientModule,
         RouterModule.forRoot([
-            { path: 'donate', component: MealSnackInputComponent }
+            { path: 'donate', component: MealSnackInputComponent },
+            { path: 'signUp', component: SignUpComponent }
         ])
     ],
     providers: [NbSidebarService, NbMenuService, FormDataService, BusinessOrStudentService, DonateService],

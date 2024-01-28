@@ -40,24 +40,44 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "src/app/business-or-data/business-or-data.service.ts",
-        "hash": "16520110421770311333"
-      },
-      {
         "file": "src/app/donate/donate.service.spec.ts",
         "hash": "14411948431860929254"
       },
       {
-        "file": "src/app/sign-up/Sign-Up.component.html",
-        "hash": "12932463468544144538"
+        "file": "src/app/business-or-student/business-or-student.service.spec.ts",
+        "hash": "2227927686115163751"
       },
       {
-        "file": "src/app/meal-snack-input/meal-snack-input.component.scss",
-        "hash": "4055606894390288348"
+        "file": "src/app/meal-input/meal-input.component.ts",
+        "hash": "4294069913488272542"
       },
       {
-        "file": "src/app/sign-up/Sign-Up.component.spec.ts",
-        "hash": "365422502887453196"
+        "file": "src/app/meal-input/meal-input.component.spec.ts",
+        "hash": "12465322794420929780"
+      },
+      {
+        "file": "src/app/donate/donate.service.ts",
+        "hash": "14462528570452660180"
+      },
+      {
+        "file": "src/app/business-or-student/business-or-student.service.ts",
+        "hash": "16661056366206156198"
+      },
+      {
+        "file": "src/app/meal-input/meal-input.component.html",
+        "hash": "13194829780322530398"
+      },
+      {
+        "file": "src/app/form-data/form-data.service.ts",
+        "hash": "4794568842952529446"
+      },
+      {
+        "file": "src/app/donate-service/donate.service.ts",
+        "hash": "7512046816586770048"
+      },
+      {
+        "file": "src/app/form-data/form-data.service.spec.ts",
+        "hash": "3108410165615739033"
       },
       {
         "file": "src/app/business-or-data/business-or-data.service.spec.ts",
@@ -68,72 +88,56 @@
         "hash": "1172720709576076689"
       },
       {
-        "file": "src/app/sign-up/Sign-Up.component.ts",
-        "hash": "467389577966453805"
-      },
-      {
-        "file": "src/app/app.component.ts",
-        "hash": "4441576869690237102"
-      },
-      {
-        "file": "tsconfig.json",
-        "hash": "12681081656146497259"
-      },
-      {
-        "file": "src/app/meal-input/meal-input.component.spec.ts",
-        "hash": "12465322794420929780"
-      },
-      {
-        "file": "src/app/app.module.ts",
-        "hash": "5081512078851230599"
-      },
-      {
-        "file": "src/app/meal-snack-input/meal-snack-input.component.html",
-        "hash": "7122313870089662592"
+        "file": "src/app/sign-up/Sign-Up.component.html",
+        "hash": "12932463468544144538"
       },
       {
         "file": "src/app/meal-input/meal-input.component.scss",
         "hash": "4055606894390288348"
       },
       {
-        "file": "src/app/meal-snack-input/meal-snack-input.component.ts",
-        "hash": "17470130691858831643"
+        "file": "src/app/app.module.ts",
+        "hash": "13231778920040683695"
       },
       {
-        "file": "src/app/form-data/form-data.service.spec.ts",
-        "hash": "3108410165615739033"
+        "file": "src/app/sign-up/Sign-Up.component.spec.ts",
+        "hash": "365422502887453196"
       },
       {
-        "file": "src/app/meal-input/meal-input.component.html",
-        "hash": "13194829780322530398"
+        "file": "src/app/app.component.ts",
+        "hash": "15343619722489632112"
       },
       {
-        "file": "src/app/business-or-student/business-or-student.service.ts",
-        "hash": "16676122789813791297"
+        "file": "tsconfig.json",
+        "hash": "12681081656146497259"
       },
       {
-        "file": "src/app/meal-input/meal-input.component.ts",
-        "hash": "4294069913488272542"
+        "file": "src/app/meal-snack-input/meal-snack-input.component.scss",
+        "hash": "4055606894390288348"
+      },
+      {
+        "file": "src/app/business-or-data/business-or-data.service.ts",
+        "hash": "16520110421770311333"
+      },
+      {
+        "file": "src/app/sign-up/Sign-Up.component.ts",
+        "hash": "5946245811388020426"
       },
       {
         "file": "src/app/sign-up/Sign-Up.component.scss",
         "hash": "4055606894390288348"
       },
       {
-        "file": "src/app/donate/donate.service.ts",
-        "hash": "14462528570452660180"
+        "file": "src/app/app.component.html",
+        "hash": "13345944994781511201"
       },
       {
-        "file": "src/app/donate-service/donate.service.ts",
-        "hash": "7512046816586770048"
+        "file": "src/app/meal-snack-input/meal-snack-input.component.ts",
+        "hash": "17470130691858831643"
       },
       {
-        "file": "src/app/business-or-student/business-or-student.service.spec.ts",
-        "hash": "2227927686115163751"
-      },
-      {
-        "file": "src/app/form-data/form-data.service.ts",
-        "hash": "4794568842952529446"
+        "file": "src/app/meal-snack-input/meal-snack-input.component.html",
+        "hash": "7122313870089662592"
       }
     ],
     "projectFileMap": {

@@ -2162,3 +2162,166 @@ Error: InvalidSymbol in C:\Users\jaspr\.vscode\McHacks11\FrontEnd\.nx\cache\file
 [NX Daemon Server] - 2024-01-28T06:43:04.631Z - Time taken for 'hash changed files from watcher' 0.5293000042438507ms
 [NX Daemon Server] - 2024-01-28T06:43:04.988Z - [WATCHER]: Processing file changes in outputs
 [NX Daemon Server] - 2024-01-28T06:44:05.329Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:09:16.447Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:09:16.449Z - [WATCHER]: src/app/sign-up/Sign-Up.component.ts was modified
+[NX Daemon Server] - 2024-01-28T07:09:16.865Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:09:16.865Z - [REQUEST]: src/app/sign-up/Sign-Up.component.ts
+[NX Daemon Server] - 2024-01-28T07:09:16.865Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:09:16.909Z - Time taken for 'hash changed files from watcher' 0.7034000009298325ms
+[NX Daemon Server] - 2024-01-28T07:15:06.043Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2024-01-28T07:15:06.044Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:15:06.853Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:15:06.853Z - [REQUEST]: src/app/app.module.ts
+[NX Daemon Server] - 2024-01-28T07:15:06.853Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:15:06.909Z - Time taken for 'hash changed files from watcher' 0.49389999359846115ms
+[NX Daemon Server] - 2024-01-28T07:15:07.023Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:15:47.474Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:15:47.481Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2024-01-28T07:15:47.957Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:15:49.095Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:15:49.095Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2024-01-28T07:15:49.095Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:15:49.158Z - Time taken for 'hash changed files from watcher' 0.4390000030398369ms
+[NX Daemon Server] - 2024-01-28T07:15:49.922Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:15:49.923Z - [WATCHER]: src/app/sign-up/Sign-Up.component.ts was modified
+[NX Daemon Server] - 2024-01-28T07:15:50.207Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:15:53.128Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:15:53.128Z - [REQUEST]: src/app/sign-up/Sign-Up.component.ts
+[NX Daemon Server] - 2024-01-28T07:15:53.128Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:15:53.171Z - Time taken for 'hash changed files from watcher' 0.40450000017881393ms
+[NX Daemon Server] - 2024-01-28T07:16:50.197Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:16:50.199Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-01-28T07:16:50.478Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:16:56.609Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:16:56.609Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-01-28T07:16:56.609Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:16:56.647Z - Time taken for 'hash changed files from watcher' 0.49549999833106995ms
+[NX Daemon Server] - 2024-01-28T07:17:08.432Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:17:08.433Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-01-28T07:17:08.727Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:17:14.842Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:17:14.842Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-01-28T07:17:14.842Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:17:14.881Z - Time taken for 'hash changed files from watcher' 0.2978999987244606ms
+[NX Daemon Server] - 2024-01-28T07:17:15.359Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:17:15.360Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-01-28T07:17:15.560Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:17:21.771Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:17:21.771Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-01-28T07:17:21.771Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:17:21.812Z - Time taken for 'hash changed files from watcher' 0.31710000336170197ms
+[NX Daemon Server] - 2024-01-28T07:17:32.689Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-01-28T07:17:32.689Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:17:39.104Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:17:39.104Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-01-28T07:17:39.104Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:17:39.167Z - Time taken for 'hash changed files from watcher' 0.4304000064730644ms
+[NX Daemon Server] - 2024-01-28T07:17:58.877Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:17:58.878Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-01-28T07:17:59.190Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:18:05.287Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:18:05.287Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-01-28T07:18:05.287Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:18:05.331Z - Time taken for 'hash changed files from watcher' 0.7100000008940697ms
+[NX Daemon Server] - 2024-01-28T07:18:22.273Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:18:22.274Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2024-01-28T07:18:22.487Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:18:28.685Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:18:28.685Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2024-01-28T07:18:28.685Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:18:28.732Z - Time taken for 'hash changed files from watcher' 0.470600001513958ms
+[NX Daemon Server] - 2024-01-28T07:19:18.806Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:19:18.808Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2024-01-28T07:19:19.039Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:19:25.218Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:19:25.219Z - [REQUEST]: src/app/app.module.ts
+[NX Daemon Server] - 2024-01-28T07:19:25.219Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:19:25.290Z - Time taken for 'hash changed files from watcher' 0.47929999977350235ms
+[NX Daemon Server] - 2024-01-28T07:20:19.426Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:20:19.480Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:20:19.698Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:22:35.114Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:22:35.116Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2024-01-28T07:22:35.439Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:22:41.530Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:22:41.530Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2024-01-28T07:22:41.530Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:22:41.566Z - Time taken for 'hash changed files from watcher' 0.48730000108480453ms
+[NX Daemon Server] - 2024-01-28T07:23:35.704Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:27:43.855Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2024-01-28T07:27:43.856Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:27:44.074Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:27:50.268Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:27:50.268Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2024-01-28T07:27:50.268Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:27:50.319Z - Time taken for 'hash changed files from watcher' 0.43310000002384186ms
+[NX Daemon Server] - 2024-01-28T07:28:18.679Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:28:18.681Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2024-01-28T07:28:18.865Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:28:25.092Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:28:25.092Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2024-01-28T07:28:25.093Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:28:25.136Z - Time taken for 'hash changed files from watcher' 0.41990000009536743ms
+[NX Daemon Server] - 2024-01-28T07:29:19.091Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:31:04.728Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:31:04.729Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2024-01-28T07:31:04.946Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:31:11.134Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:31:11.134Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2024-01-28T07:31:11.134Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:31:11.176Z - Time taken for 'hash changed files from watcher' 0.4429999962449074ms
+[NX Daemon Server] - 2024-01-28T07:31:58.588Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:31:58.589Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-01-28T07:31:58.947Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:32:04.995Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:32:04.995Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-01-28T07:32:04.995Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:32:05.034Z - Time taken for 'hash changed files from watcher' 0.35819999873638153ms
+[NX Daemon Server] - 2024-01-28T07:32:59.147Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:34:28.879Z - [WATCHER]: src/app/business-or-student/business-or-student.service.ts was modified
+[NX Daemon Server] - 2024-01-28T07:34:28.879Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:34:29.532Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:34:35.287Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:34:35.287Z - [REQUEST]: src/app/business-or-student/business-or-student.service.ts
+[NX Daemon Server] - 2024-01-28T07:34:35.287Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:34:35.333Z - Time taken for 'hash changed files from watcher' 0.4685000032186508ms
+[NX Daemon Server] - 2024-01-28T07:35:29.922Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:35:31.478Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:35:33.656Z - [WATCHER]: src/app/business-or-student/business-or-student.service.ts was modified
+[NX Daemon Server] - 2024-01-28T07:35:33.657Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:35:33.948Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:35:40.063Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:35:40.063Z - [REQUEST]: src/app/business-or-student/business-or-student.service.ts
+[NX Daemon Server] - 2024-01-28T07:35:40.063Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:35:40.105Z - Time taken for 'hash changed files from watcher' 0.5559999942779541ms
+[NX Daemon Server] - 2024-01-28T07:35:48.802Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-01-28T07:35:48.803Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:35:48.988Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:35:55.213Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:35:55.213Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-01-28T07:35:55.213Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:35:55.251Z - Time taken for 'hash changed files from watcher' 0.26989999413490295ms
+[NX Daemon Server] - 2024-01-28T07:36:49.206Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:39:27.589Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:39:27.590Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-01-28T07:39:27.840Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:39:33.992Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:39:33.993Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-01-28T07:39:33.993Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:39:34.031Z - Time taken for 'hash changed files from watcher' 0.38920000195503235ms
+[NX Daemon Server] - 2024-01-28T07:39:43.157Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:39:43.159Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2024-01-28T07:39:43.389Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:39:49.568Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:39:49.569Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2024-01-28T07:39:49.569Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:39:49.634Z - Time taken for 'hash changed files from watcher' 0.24809999763965607ms
+[NX Daemon Server] - 2024-01-28T07:40:16.676Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2024-01-28T07:40:16.676Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:40:16.862Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:40:19.628Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-28T07:40:19.630Z - [WATCHER]: src/app/business-or-student/business-or-student.service.ts was modified
+[NX Daemon Server] - 2024-01-28T07:40:23.084Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-28T07:40:23.084Z - [REQUEST]: src/app/app.component.html,src/app/business-or-student/business-or-student.service.ts
+[NX Daemon Server] - 2024-01-28T07:40:23.084Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-28T07:40:23.122Z - Time taken for 'hash changed files from watcher' 0.39959999918937683ms
