@@ -5,11 +5,7 @@ import db
 
 studentBlueprint = Blueprint('student', __name__)
 
-client = MongoClient('mongodb+srv://Mchacks11:M2AeX5ZPGFgjQ7sn@mchacksjacd.kxfgecd.mongodb.net/')
-db = client.McHacks11
-
 @studentBlueprint.route('/studentFormData', methods = ["POST", "GET"])
-
 def registerUser():
     data = request.json
     
@@ -27,16 +23,23 @@ def registerUser():
         return jsonify({"status": True}), 201
     except Exception as e:
         return jsonify({"status": False, "error": str(e)}), 500
-    
+
+@studentBlueprint.route('/studentFormData', methods = ["POST", "GET"])    
 def getUserInfo():
-    email = request.args.get('email')
+    email = request.json.get('email')
+    password = request.json.get('password')
 
-    if not email:
-        return jsonify({"status": False, "error": "Email parameter is missing"}), 400
+    if not email or not password:
+        return jsonify({"status": False, "error": "Email and password are required"}), 400
 
-    student_info = db.Student.find_one({"email": email}, {"_id": 0, "password": 0})
+    student_info = db.db.Student.find_one({"email": email})
 
     if student_info:
-        return jsonify({"status": True, "data": student_info}), 200
+        if bcrypt.checkpw(password.encode('utf-8'), student_info['password']):
+            student_info.pop('password', None)
+            student_info.pop('_id', None)
+            return jsonify({"status": True, "data": student_info}), 200
+        else:
+            return jsonify({"status": False, "error": "Invalid password"}), 401
     else:
         return jsonify({"status": False, "error": "No student found with that email"}), 404
