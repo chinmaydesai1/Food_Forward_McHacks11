@@ -1,1 +1,30 @@
-<p>items works!</p>
+<button nbButton status="warning" [style.width]="'80%'">
+  Check items Available
+</button>
+<div class="center">
+  <button
+    nbButton
+    status="danger"
+    (click)="displayItems('Concordia University')"
+  >
+    Concordia University
+  </button>
+  <button nbButton status="primary" (click)="displayItems('McGill University')">
+    McGill University
+  </button>
+  <button
+    nbButton
+    status="info"
+    (click)="displayItems('Polytechnique Montréal')"
+  >
+    Polytechnique Montréal
+  </button>
+  <button
+    nbButton
+    status="primary"
+    (click)="displayItems('Université de Montréal')"
+  >
+    Université de Montréal
+  </button>
+</div>
+<div></div>

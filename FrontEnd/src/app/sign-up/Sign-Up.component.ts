@@ -46,7 +46,7 @@ export class SignUpComponent {
         this.formData.studentFormData = this.studentForm.value;
         let response = this.formData.postStudentFormData();
         console.log(response);
-        this.router.navigate(['/checkItems']);
+        this.router.navigate(['/items']);
     }
     onBusinessFormSubmit() {
         console.log(this.businessForm.value);

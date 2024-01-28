@@ -38,7 +38,16 @@
   "pathMappings": {},
   "nxJsonPlugins": [],
   "fileMap": {
-    "nonProjectFiles": [],
+    "nonProjectFiles": [
+      {
+        "file": "project.json",
+        "hash": "3882299252945806644"
+      },
+      {
+        "file": "proxy.conf.json",
+        "hash": "13997025294381542390"
+      }
+    ],
     "projectFileMap": {
       "FrontEnd": [
         {
@@ -112,7 +121,11 @@
         },
         {
           "file": "project.json",
-          "hash": "15297980307650170974"
+          "hash": "3882299252945806644"
+        },
+        {
+          "file": "proxy.conf.json",
+          "hash": "13997025294381542390"
         },
         {
           "file": "src/app/app-routing.module.ts",
@@ -148,7 +161,7 @@
         },
         {
           "file": "src/app/app.module.ts",
-          "hash": "15426112548063785789",
+          "hash": "13995028500046638451",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/platform-browser",
@@ -196,7 +209,7 @@
         },
         {
           "file": "src/app/form-data/form-data.service.ts",
-          "hash": "5058060196758487557",
+          "hash": "13712513290874620557",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common"
@@ -204,11 +217,11 @@
         },
         {
           "file": "src/app/items/items.component.html",
-          "hash": "13464974403415099670"
+          "hash": "12175319924804203754"
         },
         {
           "file": "src/app/items/items.component.scss",
-          "hash": "4055606894390288348"
+          "hash": "15067929947759212416"
         },
         {
           "file": "src/app/items/items.component.spec.ts",
@@ -219,10 +232,11 @@
         },
         {
           "file": "src/app/items/items.component.ts",
-          "hash": "3372813129621494210",
+          "hash": "1112038348683599849",
           "deps": [
             "npm:@angular/core",
-            "npm:@angular/common"
+            "npm:@angular/common",
+            "npm:@nebular/theme"
           ]
         },
         {
@@ -293,7 +307,7 @@
         },
         {
           "file": "src/app/sign-up/Sign-Up.component.ts",
-          "hash": "5224452690444929446",
+          "hash": "3066626907933377612",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
