@@ -1,12 +1,8 @@
 from flask import Blueprint, request, jsonify
-from pymongo import MongoClient
 import bcrypt
 import db
 
 businessBlueprint = Blueprint('business', __name__)
-
-# client = MongoClient('mongodb+srv://Mchacks11:M3AeX5ZPGFgjQ7sn@mchacksjacd.kxfgecd.mongodb.net/')
-# db = client.McHacks11
 
 @businessBlueprint.route('/businessFormData', methods = ["POST", "GET"])
 def registerUser():
@@ -31,23 +27,21 @@ def registerUser():
 @businessBlueprint.route('/businessFormData', methods = ["POST", "GET"])
 def getUserInfo():
     email = request.args.get('email')
-    businessName = request.args.get('businessName')
-    address = request.args.get('address')
-    contactNumber = request.args.get('contactNumber')
     password = request.args.get('password')
+
     if not email:
         return jsonify({"status": False, "error": "Email parameter is missing"}), 400
-    if not businessName:
-        return jsonify({"status": False, "error": "Business Name is missing"}), 400
-    if not address:
-        return jsonify({"status": False, "error": "Address is missing"}), 400
-    if not contactNumber:
-        return jsonify({"status": False, "error": "Contact Number is missing"}), 400
     if not password:
         return jsonify({"status": False, "error": "Password is missing"}), 400
-    business_info = db.Business.find_one({"email": email}, {"_id": 0, "password": 0})
     
-    if business_info & address != None & contactNumber != None & password != None:
-        return jsonify({"status": True, "data": business_info}), 200
+    business_info = db.db.Business.find_one({"email": email})
+    
+    if business_info:
+        if bcrypt.checkpw(password.encode('utf-8'), business_info['password']):
+            business_info.pop('password', None)
+            business_info.pop('_id', None)
+            return jsonify({"status": True, "data": business_info}), 200
+        else:
+            return jsonify({"status": False, "error": "Invalid password"}), 401
     else:
-        return jsonify({"status": False, "error": "No Business found with that email"}), 404
+        return jsonify({"status": False, "error": "No business found with that email"}), 404
