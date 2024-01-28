@@ -1,0 +1,104 @@
+<nb-card>
+  <nb-card-body>
+    <div *ngIf="!show" class="center">
+      <button
+        nbButton
+        status="success"
+        size="giant"
+        (click)="studOrbus = 'student'; show = true"
+        [style.margin-right]="'10px'"
+      >
+        Student Sign Form
+      </button>
+      <button
+        nbButton
+        status="primary"
+        size="giant"
+        (click)="studOrbus = 'business'; show = true"
+        [style.margin-right]="'10px'"
+      >
+        Business Sign Form
+      </button>
+    </div>
+    <div *ngIf="show" class="center">
+      <form [formGroup]="LogInForm">
+        <label>Email</label>
+        <nb-form-field>
+          <input
+            placeholder="email"
+            nbInput
+            formControlName="email"
+            name="email"
+            status="primary"
+            size="giant"
+          />
+          <nb-icon
+            icon="alert-circle-outline"
+            status="danger"
+            *ngIf="
+              LogInForm.controls.email.touched &&
+              LogInForm.controls.email.invalid
+            "
+          ></nb-icon>
+        </nb-form-field>
+        <div
+          *ngIf="
+            LogInForm.controls.email.touched && LogInForm.controls.email.invalid
+          "
+          [style.margin]="'auto'"
+        >
+          <nb-alert
+            status="alert"
+            *ngIf="LogInForm.controls.email.errors?.['required']"
+            >You must provide your email!</nb-alert
+          >
+          <nb-alert
+            status="alert"
+            *ngIf="LogInForm.controls.email.errors?.['pattern']"
+            >Your email doest not conform to an email pattern.
+          </nb-alert>
+        </div>
+        <br />
+        <label>Password</label>
+        <nb-form-field>
+          <input
+            placeholder="password"
+            nbInput
+            formControlName="password"
+            name="password"
+            status="primary"
+            size="giant"
+          />
+          <nb-icon
+            icon="alert-circle-outline"
+            status="danger"
+            *ngIf="
+              LogInForm.controls.password.touched &&
+              LogInForm.controls.password.invalid
+            "
+          ></nb-icon>
+        </nb-form-field>
+        <div
+          *ngIf="
+            LogInForm.controls.password.touched &&
+            LogInForm.controls.password.invalid
+          "
+          [style.margin]="'auto'"
+        >
+          <nb-alert
+            status="alert"
+            *ngIf="LogInForm.controls.password.errors?.['required']"
+            >You must provide your password!</nb-alert
+          >
+          <nb-alert
+            status="alert"
+            *ngIf="LogInForm.controls.password.errors?.['minlength']"
+            >Your password too short!
+          </nb-alert>
+        </div>
+        <br />
+        <button nbButton status="primary">Submit</button>
+      </form>
+    </div>
+  </nb-card-body>
+</nb-card>

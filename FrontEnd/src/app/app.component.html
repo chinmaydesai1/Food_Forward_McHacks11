@@ -11,7 +11,13 @@
     >
       Sign Up
     </button>
-    <button nbButton status="warning" [style.margin-right]="'0.5em'">
+    <button
+      nbButton
+      status="warning"
+      [style.margin-right]="'0.5em'"
+      *ngIf="!signedIn"
+      routerLink="logIn"
+    >
       Log In
     </button>
   </nb-layout-header>

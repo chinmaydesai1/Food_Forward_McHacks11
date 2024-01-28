@@ -23,6 +23,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MealSnackInputComponent } from './meal-snack-input/meal-snack-input.component';
 import { SignUpComponent } from './sign-up/Sign-Up.component';
+import { LogInComponent } from './log-in/log-in.component';
 @NgModule({
     declarations: [
         AppComponent
@@ -42,9 +43,12 @@ import { SignUpComponent } from './sign-up/Sign-Up.component';
         NbIconModule,
         NbButtonModule,
         HttpClientModule,
+        LogInComponent,
         RouterModule.forRoot([
             { path: 'donate', component: MealSnackInputComponent },
-            { path: 'signUp', component: SignUpComponent }
+            { path: 'signUp', component: SignUpComponent },
+            { path: 'logIn', component: LogInComponent }
+            //{ path: "checkItems" }
         ])
     ],
     providers: [NbSidebarService, NbMenuService, FormDataService, BusinessOrStudentService, DonateService],
