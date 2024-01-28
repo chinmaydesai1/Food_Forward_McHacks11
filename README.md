@@ -12,5 +12,5 @@ McHacks 11 Project
 ## Deployment
 
 ## Collaborators
-[<img src="https://github.com/{{ al2wang }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ al2wang }}">{{ al2wang }}</a></sub>](https://github.com/{{ chinmaydesai1 }}/{{ Food_Forward_McHacks11 }}
+
 ## License
