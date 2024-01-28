@@ -24,6 +24,7 @@ import { AppComponent } from './app.component';
 import { MealSnackInputComponent } from './meal-snack-input/meal-snack-input.component';
 import { SignUpComponent } from './sign-up/Sign-Up.component';
 import { LogInComponent } from './log-in/log-in.component';
+import { HomeComponent } from './home/home.component';
 @NgModule({
     declarations: [
         AppComponent
@@ -47,7 +48,8 @@ import { LogInComponent } from './log-in/log-in.component';
         RouterModule.forRoot([
             { path: 'donate', component: MealSnackInputComponent },
             { path: 'signUp', component: SignUpComponent },
-            { path: 'logIn', component: LogInComponent }
+            { path: 'logIn', component: LogInComponent },
+            { path: '', component: HomeComponent }
             //{ path: "checkItems" }
         ])
     ],
