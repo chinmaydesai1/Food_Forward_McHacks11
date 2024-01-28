@@ -2,6 +2,8 @@ from flask import Flask
 from flask_cors import CORS
 import db
 from student import studentBlueprint
+from business import businessBlueprint
+from food import foodBlueprint
 from apscheduler.schedulers.background import BackgroundScheduler
 import atexit
 
@@ -9,6 +11,8 @@ app = Flask(__name__)
 CORS(app)
 db.initialize_db()
 app.register_blueprint(studentBlueprint, url_prefix='/student')
+app.register_blueprint(businessBlueprint, url_prefix='/business')
+app.register_blueprint(foodBlueprint, url_prefix='/food')
 
 scheduler = BackgroundScheduler()
 
