@@ -8,7 +8,6 @@ businessBlueprint = Blueprint('business', __name__)
 def registerUser():
     data = request.json
     
-    # find_one() args - always check for "email" duplicates
     if db.Business.find_one({"email": data["email"]}):
         return jsonify({"status": False, "error": "Email already exists"}), 409
 
